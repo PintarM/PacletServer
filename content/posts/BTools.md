@@ -4,16 +4,16 @@ Categories: Development
 Creator: b3m2a1@gmail.com
 Description: A general purpose package that implements useful functionality for application development. Features include: distribution tools, documentation generation, front-end manipulation, and application editing 
 DisplayName: BTools
-Extensions: <|Kernel -> <|Root -> ., Context -> {BTools`}, Root -> ., Context -> {BTools`}|>, Resource -> <|Root -> Resources, Resources -> {Icons, PaletteGenerators, Templates, Themes}, SystemID -> *|>, FrontEnd -> <|Prepend -> True|>, PacletServer -> <|Tags -> {documentation, front-end, paclets, web}, Categories -> {Development}, Description -> A general purpose package that implements useful functionality for application development. Features include: distribution tools, documentation generation, front-end manipulation, and application editing , License -> MIT|>|>
-LastModified: 2018-05-01 00:43:24
+Extensions: <|Kernel -> <|Root -> ., Context -> {BTools`}|>, Resource -> <|Root -> Resources, Resources -> {Icons, PaletteGenerators, Templates, Themes}, SystemID -> *|>, FrontEnd -> <|Prepend -> True|>, PacletServer -> <|Tags -> {documentation, front-end, paclets, web}, Categories -> {Development}, Description -> A general purpose package that implements useful functionality for application development. Features include: distribution tools, documentation generation, front-end manipulation, and application editing , License -> MIT|>|>
+LastModified: 2018-05-30 01:45:57
 License: MIT
-Modified: 2018-05-16 02:19:32
+Modified: 2018-05-30 01:46:05
 Name: BTools
 Slug: btools
 Tags: documentation,front-end,paclets,web
 Thumbnail: PacletIcon.png
 URL: https://github.com/b3m2a1/mathematica-BTools
-Version: 2.1.11
+Version: 2.1.13
 
 <a id="btools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 
@@ -59,7 +59,7 @@ BTools
 
 ### Version
 
-2.1.11
+2.1.13
 
 ### Creator
 
@@ -88,10 +88,6 @@ This package provides no extra information
 ## Extensions
 
 ### Kernel
-
-* Root: .
-
-* Context: BTools`
 
 * Root: .
 
