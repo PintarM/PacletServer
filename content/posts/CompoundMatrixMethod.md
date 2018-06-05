@@ -5,9 +5,9 @@ Creator: Simon Pearce
 Description: Solve Eigenvalue Boundary Value Problems using the Compound Matrix Method to generate the Evans function.
 DisplayName: CompoundMatrixMethod
 Extensions: <|Kernel -> <|Root -> ., Context -> CompoundMatrixMethod`|>|>
-LastModified: 2018-05-16 02:19:25
+LastModified: 2018-06-04 17:59:32
 MathematicaVersion: 9+
-Modified: 2018-05-30 01:46:07
+Modified: 2018-06-04 18:01:02
 Name: CompoundMatrixMethod
 Slug: compoundmatrixmethod
 Tags: 

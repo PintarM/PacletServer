@@ -6,8 +6,8 @@ Description: A service connection to the Stack Exchange API. Supports the majori
 DisplayName: StackExchange (ServiceConnection)
 Extensions: <|FrontEnd -> <|Prepend -> True|>|>
 Icon: FrontEnd/SystemResources/Bitmaps/stackexchange@2.png
-LastModified: 2018-05-05 19:11:08
-Modified: 2018-05-30 01:46:13
+LastModified: 2018-06-04 17:59:32
+Modified: 2018-06-04 18:01:07
 Name: ServiceConnection_StackExchange
 Slug: serviceconnectionstackexchange
 Tags: web,serviceconnection

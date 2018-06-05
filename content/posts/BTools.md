@@ -5,9 +5,9 @@ Creator: b3m2a1@gmail.com
 Description: A general purpose package that implements useful functionality for application development. Features include: distribution tools, documentation generation, front-end manipulation, and application editing 
 DisplayName: BTools
 Extensions: <|Kernel -> <|Root -> ., Context -> {BTools`}|>, Resource -> <|Root -> Resources, Resources -> {Icons, PaletteGenerators, Templates, Themes}, SystemID -> *|>, FrontEnd -> <|Prepend -> True|>, PacletServer -> <|Tags -> {documentation, front-end, paclets, web}, Categories -> {Development}, Description -> A general purpose package that implements useful functionality for application development. Features include: distribution tools, documentation generation, front-end manipulation, and application editing , License -> MIT|>|>
-LastModified: 2018-05-30 01:45:57
+LastModified: 2018-06-04 17:48:17
 License: MIT
-Modified: 2018-05-30 01:46:05
+Modified: 2018-06-04 18:01:01
 Name: BTools
 Slug: btools
 Tags: documentation,front-end,paclets,web
