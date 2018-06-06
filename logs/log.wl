@@ -1,5 +1,4 @@
 <|
-	"IncludedPaclets" -> {},
 	"BTools" -> {
 		<|
 			"Date" -> "Tue 5 Jun 2018 21:39:34",

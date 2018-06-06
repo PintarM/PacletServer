@@ -1,7 +1,5 @@
 # Paclet Server Log
 
-buildLogMDBit[IncludedPaclets, {}]
----
 <a id="BTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 ## BTools
 
