@@ -21,7 +21,7 @@ reviewDir=FileNameJoin@{mainDir, "ReviewQueue"};
 buildDir=FileNameJoin@{mainDir, "build"};
 
 
-PublicPacletServerRebuild[args__]:=
+PublicPacletServerRebuild[args___]:=
 	Block[
 		{
 			$Clone=mainDir,

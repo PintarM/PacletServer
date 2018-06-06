@@ -199,12 +199,14 @@ Cell["Do everything except for the push:", "Subsubsection",
 
 Cell[BoxData[
  RowBox[{
-  RowBox[{"PublicPacletServerRebuild", "[", 
-   RowBox[{"{", 
+  RowBox[{"PublicPacletServerRebuild", "[", "\[IndentingNewLine]", 
+   RowBox[{"{", "\[IndentingNewLine]", 
     RowBox[{
-    "\"\<Add\>\"", ",", " ", "\"\<Build\>\"", ",", " ", "\"\<Test\>\""}], 
-    "}"}], "]"}], ";"}]], "Input",
- CellLabel->"In[107]:=",ExpressionUUID->"ebada0f3-bcbb-47e4-b5db-9243f9ee5a04"]
+    "\"\<UpdateQueue\>\"", ",", "\[IndentingNewLine]", "\"\<Add\>\"", ",", 
+     " ", "\[IndentingNewLine]", "\"\<Log\>\"", ",", "\[IndentingNewLine]", 
+     "\"\<Build\>\"", ",", " ", "\[IndentingNewLine]", "\"\<Test\>\""}], 
+    "\[IndentingNewLine]", "}"}], "\[IndentingNewLine]", "]"}], 
+  ";"}]], "Input",ExpressionUUID->"ebada0f3-bcbb-47e4-b5db-9243f9ee5a04"]
 }, Open  ]],
 
 Cell[CellGroupData[{

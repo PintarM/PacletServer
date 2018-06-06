@@ -102,12 +102,6 @@
 			"Date" -> "Fri 20 Apr 2018 01:06:13"
 		|>,
 		<|
-			"Commit" -> "51af33f3948e3d12e6afd5e09479e594f19b6cec",
-			"Message" -> "Commited via Mathematica\n    \n    Rebuilt on Fri 20 Apr 2018 00:58:44",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Fri 20 Apr 2018 00:58:44"
-		|>,
-		<|
 			"Commit" -> "cb348ed6570f213c18e98efac2b9dc99332341ba",
 			"Message" -> "Rebuild",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
@@ -220,12 +214,6 @@
 			"Date" -> "Fri 20 Apr 2018 01:06:13"
 		|>,
 		<|
-			"Commit" -> "9473809385808b77b281edec61e4a670a8117ad6",
-			"Message" -> "Commited via Mathematica\n    \n    Rebuilt on Thu 19 Apr 2018 13:41:26",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Thu 19 Apr 2018 13:41:26"
-		|>,
-		<|
 			"Commit" -> "9fa9b4482f858a455e6879df7706c114bc67d9ac",
 			"Message" -> "Initial Build",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
@@ -312,12 +300,6 @@
 			"Date" -> "Thu 19 Apr 2018 13:35:04"
 		|>,
 		<|
-			"Commit" -> "adfd8a3d33b5bf83e57e9a6ad549d7797d794cca",
-			"Message" -> "Commited via Mathematica\n    \n    Rebuilt on Thu 19 Apr 2018 13:33:38",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Thu 19 Apr 2018 13:33:38"
-		|>,
-		<|
 			"Commit" -> "cd3de9a28690fd165706666d84a306ee14ba537a",
 			"Message" -> "Add MaTeX 1.7.3 and IGraph/M 0.3.97.2",
 			"Author" -> " Szabolcs HorvaÌt <szhorvat@gmail.com>",
@@ -358,12 +340,6 @@
 			"Message" -> "Rebuild",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
 			"Date" -> "Thu 19 Apr 2018 13:35:04"
-		|>,
-		<|
-			"Commit" -> "adfd8a3d33b5bf83e57e9a6ad549d7797d794cca",
-			"Message" -> "Commited via Mathematica\n    \n    Rebuilt on Thu 19 Apr 2018 13:33:38",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Thu 19 Apr 2018 13:33:38"
 		|>,
 		<|
 			"Commit" -> "cd3de9a28690fd165706666d84a306ee14ba537a",

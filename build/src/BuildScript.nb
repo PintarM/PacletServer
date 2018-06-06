@@ -63,7 +63,8 @@ Cell[BoxData[{
 
 Cell[BoxData[
  RowBox[{
-  RowBox[{"PublicPacletServerRebuild", "[", "args__", "]"}], ":=", "\n", "\t", 
+  RowBox[{"PublicPacletServerRebuild", "[", "args___", "]"}], ":=", "\n", 
+  "\t", 
   RowBox[{"Block", "[", "\n", "\t\t", 
    RowBox[{
     RowBox[{"{", "\n", "\t\t\t", 

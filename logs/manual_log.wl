@@ -10,7 +10,7 @@
  "PublicPacletServer"->
    <|
     "Author"->"b3m2a1 <b3m2a1@gmail.com>",
-    "Date"->DateObject[{2018,6,5,18,56,52.778487`},"Instant","Gregorian",-7.`],
+    "Date"->DateObject[{2018,6,5,21,30,56.36545`8.503587952476657},"Instant","Gregorian",-7.`],
     "Message"->"Manually updated PublicPacletServer"
     |>
  }
