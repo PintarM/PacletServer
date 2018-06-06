@@ -6,28 +6,10 @@
 			"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
 		|>,
 		<|
-			"Commit" -> "d8733cc620fddb1341fcde5635c0d1ed494a7e73",
-			"Message" -> "Rebuilt on Mon 4 Jun 2018 18:01:59",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Mon 4 Jun 2018 18:01:59"
-		|>,
-		<|
 			"Commit" -> "4c3f233ac395aa3da7a4759a439135d42fb82324",
 			"Message" -> "Added paclet BTools-2.1.13.paclet to queue",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
 			"Date" -> "Wed 30 May 2018 01:44:52"
-		|>,
-		<|
-			"Commit" -> "fb83899b69a7e06757397a48e512dd8ff356385a",
-			"Message" -> "Rebuilt on Tue 1 May 2018 00:44:22",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Tue 1 May 2018 00:44:22"
-		|>,
-		<|
-			"Commit" -> "7cd3beb6c2e28543b7462d39b3f06194ee7f7a72",
-			"Message" -> "Rebuilt on Mon 30 Apr 2018 23:47:11",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Mon 30 Apr 2018 23:47:11"
 		|>,
 		<|
 			"Commit" -> "ded292a1ce0675c439070e2e935bd7acd7cfee86",
@@ -52,12 +34,6 @@
 			"Message" -> "Updated paclet BTools-2.1.10.paclet in queue",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
 			"Date" -> "Mon 30 Apr 2018 22:22:39"
-		|>,
-		<|
-			"Commit" -> "27d969cbec32dc5b0a7dc073a5354d13418d2aa4",
-			"Message" -> "Rebuilt on Mon 30 Apr 2018 16:31:53",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Mon 30 Apr 2018 16:31:54"
 		|>,
 		<|
 			"Commit" -> "a12d47df6f014261a6abfaef36ad60aaa4d76809",
@@ -108,12 +84,6 @@
 			"Date" -> "Thu 26 Apr 2018 01:12:19"
 		|>,
 		<|
-			"Commit" -> "1dcd843ed0a8d501589ae4b44998e8d3f7b8f03a",
-			"Message" -> "Rebuilt on Thu 26 Apr 2018 00:17:53",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Thu 26 Apr 2018 00:17:53"
-		|>,
-		<|
 			"Commit" -> "b4933374fe7a495bac540a2d7b34a1f929bebb17",
 			"Message" -> "Push of the unpushed\n    \n    Stuff didnât get auto-committed, oddly",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
@@ -161,12 +131,6 @@
 			"Message" -> "Manual update of interface paclet",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
 			"Date" -> "Tue 1 May 2018 01:10:33"
-		|>,
-		<|
-			"Commit" -> "7cd3beb6c2e28543b7462d39b3f06194ee7f7a72",
-			"Message" -> "Rebuilt on Mon 30 Apr 2018 23:47:11",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Mon 30 Apr 2018 23:47:11"
 		|>,
 		<|
 			"Commit" -> "9527f4625e00454e660a0e3e5b68981dac024d1a",
@@ -234,32 +198,14 @@
 			"Author" -> "b3m2a1 <b3m2a1@gmail.com>",
 			"Date" -> "Mon 4 Jun 2018 18:50:52",
 			"Message" -> "Manual addition of SymbolObjects package"
-		|>,
-		<|
-			"Commit" -> "d8733cc620fddb1341fcde5635c0d1ed494a7e73",
-			"Message" -> "Rebuilt on Mon 4 Jun 2018 18:01:59",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Mon 4 Jun 2018 18:01:59"
 		|>
 	},
 	"ChemTools" -> {
-		<|
-			"Commit" -> "d8733cc620fddb1341fcde5635c0d1ed494a7e73",
-			"Message" -> "Rebuilt on Mon 4 Jun 2018 18:01:59",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Mon 4 Jun 2018 18:01:59"
-		|>,
 		<|
 			"Commit" -> "ec5c5830f73dbf10523f0fcb617dcc8922149ef4",
 			"Message" -> "Added paclet ChemTools-1.2.3.paclet to queue",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
 			"Date" -> "Wed 30 May 2018 01:45:16"
-		|>,
-		<|
-			"Commit" -> "1dcd843ed0a8d501589ae4b44998e8d3f7b8f03a",
-			"Message" -> "Rebuilt on Thu 26 Apr 2018 00:17:53",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Thu 26 Apr 2018 00:17:53"
 		|>,
 		<|
 			"Commit" -> "21745b2778c3ee3a6f7ca3650ed3422df6670345",
@@ -298,12 +244,6 @@
 			"Message" -> "Added paclet CompoundMatrixMethod-0.6.paclet to queue",
 			"Author" -> " Simon Pearce <simonppearce@btinternet.com>",
 			"Date" -> "Tue 1 May 2018 19:43:49"
-		|>,
-		<|
-			"Commit" -> "c6bfd655c827cb4b76506070027ecc8e01f79648",
-			"Message" -> "Rebuilt on Tue 1 May 2018 12:20:47",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Tue 1 May 2018 12:20:47"
 		|>
 	},
 	"ImportMesh" -> {
@@ -322,12 +262,6 @@
 	},
 	"ServiceConnection_StackExchange" -> {
 		<|
-			"Commit" -> "ada2fd12d7198902d67df1937dd171d19985441d",
-			"Message" -> "Rebuilt on Sat 5 May 2018 19:12:04",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Sat 5 May 2018 19:12:04"
-		|>,
-		<|
 			"Commit" -> "b70ae9651aa7b8014bc8d10ca2373968fba3018a",
 			"Message" -> "Added paclet ServiceConnection_StackExchange-1.1.7.paclet to queue",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
@@ -340,12 +274,6 @@
 			"Message" -> "Add IGraph/M 0.3.99.1",
 			"Author" -> " Szabolcs HorvaÌt <szhorvat@gmail.com>",
 			"Date" -> "Tue 1 May 2018 15:54:21"
-		|>,
-		<|
-			"Commit" -> "c6bfd655c827cb4b76506070027ecc8e01f79648",
-			"Message" -> "Rebuilt on Tue 1 May 2018 12:20:47",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Tue 1 May 2018 12:20:47"
 		|>,
 		<|
 			"Commit" -> "567e55ecae5267158cf7da0f2885606602993756",
@@ -378,12 +306,6 @@
 			"Date" -> "Sat 28 Apr 2018 11:21:21"
 		|>,
 		<|
-			"Commit" -> "db393ee05464e7027fbf7a70dab28b98b3c9b693",
-			"Message" -> "Rebuilt on Sat 28 Apr 2018 10:58:07",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Sat 28 Apr 2018 10:58:08"
-		|>,
-		<|
 			"Commit" -> "cb348ed6570f213c18e98efac2b9dc99332341ba",
 			"Message" -> "Rebuild",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
@@ -403,12 +325,6 @@
 		|>
 	},
 	"ServiceConnection_WolframCommunity" -> {
-		<|
-			"Commit" -> "0d9b8313537fe59cb275da0be70a65d351d57343",
-			"Message" -> "Rebuilt on Tue 1 May 2018 01:05:19",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Tue 1 May 2018 01:05:19"
-		|>,
 		<|
 			"Commit" -> "d7e9e402a32d3c772d50beaa620b108433426e82",
 			"Message" -> "Added paclet ServiceConnection_WolframCommunity-1.0.3.paclet to queue",
