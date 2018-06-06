@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    679742,      11281]
-NotebookOptionsPosition[    676061,      11203]
-NotebookOutlinePosition[    677806,      11252]
-CellTagsIndexPosition[    677763,      11249]
+NotebookDataLength[    686357,      11458]
+NotebookOptionsPosition[    681167,      11354]
+NotebookOutlinePosition[    682912,      11403]
+CellTagsIndexPosition[    682869,      11400]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -109,15 +109,111 @@ Cell["Contributing a paclet", "Subsection",
 43a5112356a0"],
 
 Cell["\<\
-If you want to add a paclet to the repository, there is a simple three step \
-process:\
+If you want to add a paclet to the repository, there is are a few ways to go \
+about it.\
 \>", "Text",
  CellChangeTimes->{{3.733108203988655*^9, 3.733108246817689*^9}, 
    3.733108292615624*^9, {3.733111653543934*^9, 3.733111655043153*^9}, {
    3.7333558516501513`*^9, 3.733355858090351*^9}, {3.733703482783852*^9, 
-   3.733703504363855*^9}, {3.733703791709186*^9, 
-   3.733703792205611*^9}},ExpressionUUID->"23c063c3-2631-4cae-9628-\
+   3.733703504363855*^9}, {3.733703791709186*^9, 3.733703792205611*^9}, {
+   3.737228492600052*^9, 
+   3.737228504304792*^9}},ExpressionUUID->"23c063c3-2631-4cae-9628-\
 4094dd632663"],
+
+Cell[CellGroupData[{
+
+Cell["Manual submission", "Subsubsection",
+ CellChangeTimes->{{3.737228508656946*^9, 
+  3.7372285230109262`*^9}},ExpressionUUID->"cf2fa2f1-56d5-4a70-8511-\
+a8c2575c2eed"],
+
+Cell[TextData[{
+ "If you have a small paclet file that you don\[CloseCurlyQuote]t necessarily \
+want to update often you can manually submit is via the ",
+ ButtonBox["Issues page",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://github.com/paclets/PacletServer/issues"], None},
+  ButtonNote->"https://github.com/paclets/PacletServer/issues"],
+ ". You can simply ",
+ ButtonBox["attach the paclet",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://blog.github.com/2015-09-25-attach-files-to-comments/"], None},
+  ButtonNote->
+   "https://blog.github.com/2015-09-25-attach-files-to-comments/"],
+ " with the .zip extension to an issue. The extension will be changed back to \
+.paclet before the paclet enters the review queue"
+}], "Text",
+ CellChangeTimes->{{3.7372285168079557`*^9, 3.737228634664814*^9}, {
+  3.737228665675268*^9, 3.737228667944459*^9}, {3.7372286980263166`*^9, 
+  3.7372286989449863`*^9}, {3.737228746199781*^9, 3.737228764384286*^9}, {
+  3.737228947102254*^9, 
+  3.737228967764409*^9}},ExpressionUUID->"406ca29c-5a53-4101-bcd9-\
+6d359617a23f"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Download request", "Subsubsection",
+ CellChangeTimes->{{3.737229006147255*^9, 
+  3.7372290105231447`*^9}},ExpressionUUID->"96591d57-b65e-4f65-9bcb-\
+f140c7dbbfe7"],
+
+Cell["\<\
+A paclet may be also be submitted as a download request. Simply create an \
+issue with two things:\
+\>", "Text",
+ CellChangeTimes->{{3.7372290118505983`*^9, 
+  3.7372290443785753`*^9}},ExpressionUUID->"49e787e1-7de1-4b3c-9be0-\
+aa372dd644d5"],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+A valid URL to download the paclet from. Currently this must be a GitHub repo \
+or release.\
+\>", "Item",
+ CellChangeTimes->{{3.737229046690723*^9, 
+  3.737229231238817*^9}},ExpressionUUID->"85fb5e3b-2001-4e86-ac61-\
+29d4f54adc95"],
+
+Cell[TextData[{
+ "An update rate. This can be any of: ",
+ Cell[BoxData["\"\<DownloadOnce\>\""], "InlineInput",
+  FormatType->"StandardForm",ExpressionUUID->
+  "034157b4-b0ad-4762-b953-339bdcfc6c2a"],
+ ", ",
+ Cell[BoxData["\"\<DownloadAlways\>\""], "InlineInput",
+  FormatType->"StandardForm",ExpressionUUID->
+  "aeaab225-95f2-4ba3-80f0-8553602b9def"],
+ ", or a ",
+ Cell[BoxData["Quantity"], "InlineInput",
+  FormatType->"StandardForm",ExpressionUUID->
+  "575ba2eb-6ce7-4d5a-aa1b-fe05a8253f52"],
+ " specification with a minimum update time."
+}], "Item",
+ CellChangeTimes->{{3.737229046690723*^9, 3.737229092409602*^9}, {
+  3.737229253246468*^9, 
+  3.737229324189867*^9}},ExpressionUUID->"f15c493a-8b6c-42a0-bd2a-\
+754c8efffaaf"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Via Forks and Pull Requests", "Subsubsection",
+ CellChangeTimes->{{3.737228971091649*^9, 
+  3.737228978883814*^9}},ExpressionUUID->"686df04c-cb55-42eb-b374-\
+1300bba81c06"],
+
+Cell["\<\
+There is a relatively simple three-step process if large changes to the \
+server are desired\
+\>", "Text",
+ CellChangeTimes->{{3.737228980162766*^9, 
+  3.737229000379431*^9}},ExpressionUUID->"89aed4cd-136f-4d9b-919e-\
+7ba71f42e74e"],
 
 Cell[CellGroupData[{
 
@@ -11099,7 +11195,62 @@ J08PvZPfyIl3Tg80ljj2tnvNAwAAAAAAACTpfwzHTgA=
    3.733703982037809*^9}, {3.733704038316033*^9, 3.733704048170539*^9}, 
    3.733704335492552*^9},ExpressionUUID->"3661e949-2ade-4d4c-98e3-\
 0cdc261f1d0d"]
+}, Open  ]]
 }, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Via Interface Paclet", "Subsubsection",
+ CellChangeTimes->{{3.737229006147255*^9, 3.7372290105231447`*^9}, {
+  3.737229399285963*^9, 
+  3.737229403116432*^9}},ExpressionUUID->"e9d37efd-39b6-465d-ad36-\
+7cadaa64edd9"],
+
+Cell[TextData[{
+ "There is a helper paclet on the server to make this process easier. You can \
+simply get the ",
+ ButtonBox["PublicPacletServer paclet",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://paclets.github.io/PacletServer/publicpacletserver.html"], 
+    None},
+  ButtonNote->
+   "https://paclets.github.io/PacletServer/publicpacletserver.html"],
+ " from the server, load it, and run:"
+}], "Text",
+ CellChangeTimes->{{3.737229404155802*^9, 3.737229418676058*^9}, {
+  3.737239233869866*^9, 
+  3.737239294242723*^9}},ExpressionUUID->"57ea10c6-b1f1-4681-b5bf-\
+2a0eb6555c7f"],
+
+Cell[BoxData[{
+ RowBox[{"<<", "PublicPacletServer`"}], "\n", 
+ RowBox[{"PublicPacletServer", "[", "\n", "\t", 
+  RowBox[{"\"\<RegisterPaclet\>\"", ",", " ", "\n", "\t", 
+   RowBox[{"<|", "\n", "\t\t", 
+    RowBox[{
+     RowBox[{"\"\<Name\>\"", "->", "\"\<YourPacletName\>\""}], ",", "\n", 
+     "\t\t", 
+     RowBox[{
+     "\"\<URL\>\"", "\[Rule]", 
+      "\"\<https://github.com/your/yourCoolPaclet\>\""}], ",", "\n", "\t\t", 
+     RowBox[{"\"\<Author\>\"", "\[Rule]", "\"\<Your Name\>\""}]}], "\n", 
+    "\t\t", "|>"}]}], "\n", "\t", "]"}]}], "MathematicaLanguageCode",
+ CellChangeTimes->{{3.7372393058352413`*^9, 
+  3.737239451872922*^9}},ExpressionUUID->"111dc636-3dd7-4a0a-93ec-\
+1ffe032e3464"]
+}, Open  ]]
+}, Open  ]],
+
+Cell["", "PageBreak",
+ PageBreakBelow->True,ExpressionUUID->"5aa320e7-fd2b-46e6-b9f7-1c411f9c9bd5"],
+
+Cell[CellGroupData[{
+
+Cell["Custom Paclet Pages", "Subsection",
+ CellChangeTimes->{{3.737229355532834*^9, 
+  3.737229360797119*^9}},ExpressionUUID->"dbe408ce-971e-44c4-bd4a-\
+7adc66d2e288"],
 
 Cell[TextData[{
  "You can submit your own paclet shingle by providing a Markdown notebook \
@@ -11133,8 +11284,8 @@ m"], None},
   ButtonNote->
    "https://github.com/b3m2a1/mathematica-BTools/blob/master/PacletInfo.m"],
  ". The extra parameters the site generator uses will be placed into a ",
- Cell[BoxData["\"\<PacletServer\>\""], "InlineInput",
-  FormatType->"StandardForm",ExpressionUUID->
+ Cell[BoxData[
+ "\"\<PacletServer\>\""], "InlineInput",ExpressionUUID->
   "bdaa27a7-ca5a-48e6-8ba9-ade6efa57990"],
  " extension, e.g. add the extension:"
 }], "Text",
@@ -11271,21 +11422,45 @@ Cell[3435, 98, 99, 1, 22, "PageBreak",ExpressionUUID->"e19bf617-917f-4738-8567-6
  PageBreakBelow->True],
 Cell[CellGroupData[{
 Cell[3559, 103, 315, 5, 41, "Subsection",ExpressionUUID->"bed6b0e9-82da-41f1-b781-43a5112356a0"],
-Cell[3877, 110, 457, 9, 35, "Text",ExpressionUUID->"23c063c3-2631-4cae-9628-4094dd632663"],
+Cell[3877, 110, 509, 10, 35, "Text",ExpressionUUID->"23c063c3-2631-4cae-9628-4094dd632663"],
 Cell[CellGroupData[{
-Cell[4359, 123, 231015, 3796, 321, "Item",ExpressionUUID->"d340ab76-5992-4d88-a106-178df7e5125f"],
-Cell[235377, 3921, 275177, 4524, 608, "Item",ExpressionUUID->"f4a86685-fe1a-4338-beb1-fc6d98b27339"],
-Cell[510557, 8447, 161339, 2653, 334, "Item",ExpressionUUID->"3661e949-2ade-4d4c-98e3-0cdc261f1d0d"]
+Cell[4411, 124, 170, 3, 40, "Subsubsection",ExpressionUUID->"cf2fa2f1-56d5-4a70-8511-a8c2575c2eed"],
+Cell[4584, 129, 1080, 23, 81, "Text",ExpressionUUID->"406ca29c-5a53-4101-bcd9-6d359617a23f"]
 }, Open  ]],
-Cell[671911, 11103, 1797, 42, 104, "Text",ExpressionUUID->"81056cdc-4286-4ff8-95d5-1069f04507ac"],
-Cell[673711, 11147, 1237, 24, 170, "FencedCode",ExpressionUUID->"227c5a87-dabd-430a-bd57-a4f79da4f354"]
+Cell[CellGroupData[{
+Cell[5701, 157, 169, 3, 40, "Subsubsection",ExpressionUUID->"96591d57-b65e-4f65-9bcb-f140c7dbbfe7"],
+Cell[5873, 162, 252, 6, 35, "Text",ExpressionUUID->"49e787e1-7de1-4b3c-9be0-aa372dd644d5"],
+Cell[CellGroupData[{
+Cell[6150, 172, 241, 6, 32, "Item",ExpressionUUID->"85fb5e3b-2001-4e86-ac61-29d4f54adc95"],
+Cell[6394, 180, 727, 18, 53, "Item",ExpressionUUID->"f15c493a-8b6c-42a0-bd2a-754c8efffaaf"]
+}, Open  ]]
 }, Open  ]],
-Cell[674963, 11174, 99, 1, 22, "PageBreak",ExpressionUUID->"6e284aad-d1f0-478d-995a-d5c61a7cb307",
+Cell[CellGroupData[{
+Cell[7170, 204, 178, 3, 40, "Subsubsection",ExpressionUUID->"686df04c-cb55-42eb-b374-1300bba81c06"],
+Cell[7351, 209, 242, 6, 35, "Text",ExpressionUUID->"89aed4cd-136f-4d9b-919e-7ba71f42e74e"],
+Cell[CellGroupData[{
+Cell[7618, 219, 231015, 3796, 321, "Item",ExpressionUUID->"d340ab76-5992-4d88-a106-178df7e5125f"],
+Cell[238636, 4017, 275177, 4524, 608, "Item",ExpressionUUID->"f4a86685-fe1a-4338-beb1-fc6d98b27339"],
+Cell[513816, 8543, 161339, 2653, 334, "Item",ExpressionUUID->"3661e949-2ade-4d4c-98e3-0cdc261f1d0d"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[675204, 11202, 222, 4, 40, "Subsubsection",ExpressionUUID->"e9d37efd-39b6-465d-ad36-7cadaa64edd9"],
+Cell[675429, 11208, 593, 15, 58, "Text",ExpressionUUID->"57ea10c6-b1f1-4681-b5bf-2a0eb6555c7f"],
+Cell[676025, 11225, 699, 15, 189, "MathematicaLanguageCode",ExpressionUUID->"111dc636-3dd7-4a0a-93ec-1ffe032e3464"]
+}, Open  ]]
+}, Open  ]],
+Cell[676751, 11244, 99, 1, 22, "PageBreak",ExpressionUUID->"5aa320e7-fd2b-46e6-b9f7-1c411f9c9bd5",
  PageBreakBelow->True],
-Cell[675065, 11177, 992, 24, 58, "Text",ExpressionUUID->"0d0c6fbf-540a-42b8-9cc7-acba25ff89da"]
+Cell[CellGroupData[{
+Cell[676875, 11249, 167, 3, 41, "Subsection",ExpressionUUID->"dbe408ce-971e-44c4-bd4a-7adc66d2e288"],
+Cell[677045, 11254, 1769, 42, 104, "Text",ExpressionUUID->"81056cdc-4286-4ff8-95d5-1069f04507ac"],
+Cell[678817, 11298, 1237, 24, 170, "FencedCode",ExpressionUUID->"227c5a87-dabd-430a-bd57-a4f79da4f354"]
+}, Open  ]],
+Cell[680069, 11325, 99, 1, 22, "PageBreak",ExpressionUUID->"6e284aad-d1f0-478d-995a-d5c61a7cb307",
+ PageBreakBelow->True],
+Cell[680171, 11328, 992, 24, 58, "Text",ExpressionUUID->"0d0c6fbf-540a-42b8-9cc7-acba25ff89da"]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
