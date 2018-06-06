@@ -45,6 +45,7 @@ blockquote styles
 blockquote {
   color: #333;
   font-style: italic;
+  margin-left: 100px;
 }
 
 /*

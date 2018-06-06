@@ -305,6 +305,8 @@ Cell[CellGroupData[{
 Cell["Log, Build, Test", \
 "Subsubsection",ExpressionUUID->"b5763edc-d6cb-4634-b476-f7a05deb38b4"],
 
+Cell[CellGroupData[{
+
 Cell[BoxData[
  RowBox[{"PublicPacletServerRebuild", "[", 
   RowBox[{
@@ -320,7 +322,20 @@ Cell[BoxData[
    "\[IndentingNewLine]", 
    RowBox[{"\"\<GenerateIndex\>\"", "\[Rule]", "False"}]}], 
   "\[IndentingNewLine]", "]"}]], "Input",
- CellLabel->"In[5]:=",ExpressionUUID->"c3b6d18e-90be-4a9c-9637-1b7fbef0131a"]
+ CellLabel->"In[13]:=",ExpressionUUID->"c3b6d18e-90be-4a9c-9637-1b7fbef0131a"],
+
+Cell[BoxData[
+ RowBox[{"\[LeftAssociation]", 
+  RowBox[{
+   RowBox[{"\<\"Log\"\>", 
+    "\[Rule]", \
+"\<\"/Users/Mark/Documents/GitHub/PacletServer/logs/log.wl\"\>"}], ",", 
+   RowBox[{"\<\"Build\"\>", 
+    "\[Rule]", "\<\"/Users/Mark/Documents/GitHub/PacletServer/docs\"\>"}]}], 
+  "\[RightAssociation]"}]], "Output",
+ CellLabel->
+  "Out[13]=",ExpressionUUID->"180f0cf2-de2a-46e6-9a6f-0271a193334f"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
