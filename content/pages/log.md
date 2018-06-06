@@ -11,12 +11,10 @@ buildLogMDChunk[{<|Commit -> 9fa9b4482f858a455e6879df7706c114bc67d9ac, Message -
 
 
 ---
-<a id="ChemTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## ChemTools
+<a id="PublicPacletServer" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## PublicPacletServer
 
-buildLogMDChunk[{<|Commit -> 9fa9b4482f858a455e6879df7706c114bc67d9ac, Message -> Initial Build, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Wed 18 Apr 2018 23:53:26|>, <|Commit -> 9473809385808b77b281edec61e4a670a8117ad6, Message -> Commited via Mathematica
-    
-    Rebuilt on Thu 19 Apr 2018 13:41:26, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Thu 19 Apr 2018 13:41:26|>, <|Commit -> 27cfba569721bd2ac793d1bcbf30995fc94378af, Message -> Switched up theme, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Fri 20 Apr 2018 01:06:13|>, <|Commit -> 21745b2778c3ee3a6f7ca3650ed3422df6670345, Message -> Push update, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 23 Apr 2018 00:15:01|>, <|Commit -> 1dcd843ed0a8d501589ae4b44998e8d3f7b8f03a, Message -> Rebuilt on Thu 26 Apr 2018 00:17:53, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Thu 26 Apr 2018 00:17:53|>, <|Commit -> ec5c5830f73dbf10523f0fcb617dcc8922149ef4, Message -> Added paclet ChemTools-1.2.3.paclet to queue, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Wed 30 May 2018 01:45:16|>, <|Commit -> d8733cc620fddb1341fcde5635c0d1ed494a7e73, Message -> Rebuilt on Mon 4 Jun 2018 18:01:59, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 4 Jun 2018 18:01:59|>}]
+buildLogMDChunk[{<|Commit -> cff9e836fe4dab109f96952484385a676eaac00b, Message -> Added paclet PublicPacletServer-0.0.1.paclet to queue, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Sat 28 Apr 2018 15:06:51|>, <|Commit -> 02dd082b4e16ff7a9693bd8d6017984a5f095a1d, Message -> Updated ReviewQueue/PublicPacletServer-0.0.1.paclet, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Sat 28 Apr 2018 16:02:09|>, <|Commit -> f205b3e1ce083ce4da4dfec4d2262000eba24542, Message -> Updated ReviewQueue/PublicPacletServer-0.0.1.paclet, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Sat 28 Apr 2018 16:03:03|>, <|Commit -> 0bbac883c6abcd5d591470ecad421a91677808e1, Message -> Updated ReviewQueue/PublicPacletServer-0.0.1.paclet, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Sat 28 Apr 2018 16:04:53|>, <|Commit -> 9dbf2f6a40d01a02e009ac6ea25dc2397a4be654, Message -> Updated ReviewQueue/PublicPacletServer-0.0.1.paclet, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Sat 28 Apr 2018 16:06:51|>, <|Commit -> 86e4c039ffea8f79120a409848914b41c7315a43, Message -> Updated paclet PublicPacletServer-0.0.1.paclet in queue, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Sat 28 Apr 2018 16:09:25|>, <|Commit -> 705a1aa3a76a8ff05c9a771b6adced56f4563933, Message -> Updated paclet PublicPacletServer-0.0.1.paclet in queue, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 30 Apr 2018 22:23:42|>, <|Commit -> 98b0c63f0faeae89d5d8d36654e000cc99bce075, Message -> Updated paclet PublicPacletServer-0.0.1.paclet in queue, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 30 Apr 2018 22:24:09|>, <|Commit -> e51edb7280fdd9c485b98ca903006c10653f935a, Message -> Delete PublicPacletServer-0.0.1.paclet, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 30 Apr 2018 23:14:49|>, <|Commit -> 9527f4625e00454e660a0e3e5b68981dac024d1a, Message -> Added paclet PublicPacletServer-0.0.1.paclet to queue, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 30 Apr 2018 23:21:58|>, <|Commit -> 7cd3beb6c2e28543b7462d39b3f06194ee7f7a72, Message -> Rebuilt on Mon 30 Apr 2018 23:47:11, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 30 Apr 2018 23:47:11|>, <|Commit -> 1d1703bfff429f5d1a02cfdfa5b30fc71768daed, Message -> Manual update of interface paclet, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Tue 1 May 2018 01:10:33|>, <|Author -> b3m2a1 <b3m2a1@gmail.com>, Date -> Tue 5 Jun 2018 18:56:52, Message -> Manually updated PublicPacletServer|>}]
 
 
 ---
@@ -24,6 +22,15 @@ buildLogMDChunk[{<|Commit -> 9fa9b4482f858a455e6879df7706c114bc67d9ac, Message -
 ## SymbolObjects
 
 buildLogMDChunk[{<|Commit -> d8733cc620fddb1341fcde5635c0d1ed494a7e73, Message -> Rebuilt on Mon 4 Jun 2018 18:01:59, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 4 Jun 2018 18:01:59|>, <|Author -> b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 4 Jun 2018 18:50:52, Message -> Manual addition of SymbolObjects package|>}]
+
+
+---
+<a id="ChemTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## ChemTools
+
+buildLogMDChunk[{<|Commit -> 9fa9b4482f858a455e6879df7706c114bc67d9ac, Message -> Initial Build, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Wed 18 Apr 2018 23:53:26|>, <|Commit -> 9473809385808b77b281edec61e4a670a8117ad6, Message -> Commited via Mathematica
+    
+    Rebuilt on Thu 19 Apr 2018 13:41:26, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Thu 19 Apr 2018 13:41:26|>, <|Commit -> 27cfba569721bd2ac793d1bcbf30995fc94378af, Message -> Switched up theme, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Fri 20 Apr 2018 01:06:13|>, <|Commit -> 21745b2778c3ee3a6f7ca3650ed3422df6670345, Message -> Push update, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 23 Apr 2018 00:15:01|>, <|Commit -> 1dcd843ed0a8d501589ae4b44998e8d3f7b8f03a, Message -> Rebuilt on Thu 26 Apr 2018 00:17:53, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Thu 26 Apr 2018 00:17:53|>, <|Commit -> ec5c5830f73dbf10523f0fcb617dcc8922149ef4, Message -> Added paclet ChemTools-1.2.3.paclet to queue, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Wed 30 May 2018 01:45:16|>, <|Commit -> d8733cc620fddb1341fcde5635c0d1ed494a7e73, Message -> Rebuilt on Mon 4 Jun 2018 18:01:59, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 4 Jun 2018 18:01:59|>}]
 
 
 ---
@@ -57,13 +64,6 @@ buildLogMDChunk[{<|Commit -> cd3de9a28690fd165706666d84a306ee14ba537a, Message -
 
 
 ---
-<a id="PublicPacletServer" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## PublicPacletServer
-
-buildLogMDChunk[{<|Commit -> cff9e836fe4dab109f96952484385a676eaac00b, Message -> Added paclet PublicPacletServer-0.0.1.paclet to queue, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Sat 28 Apr 2018 15:06:51|>, <|Commit -> 02dd082b4e16ff7a9693bd8d6017984a5f095a1d, Message -> Updated ReviewQueue/PublicPacletServer-0.0.1.paclet, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Sat 28 Apr 2018 16:02:09|>, <|Commit -> f205b3e1ce083ce4da4dfec4d2262000eba24542, Message -> Updated ReviewQueue/PublicPacletServer-0.0.1.paclet, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Sat 28 Apr 2018 16:03:03|>, <|Commit -> 0bbac883c6abcd5d591470ecad421a91677808e1, Message -> Updated ReviewQueue/PublicPacletServer-0.0.1.paclet, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Sat 28 Apr 2018 16:04:53|>, <|Commit -> 9dbf2f6a40d01a02e009ac6ea25dc2397a4be654, Message -> Updated ReviewQueue/PublicPacletServer-0.0.1.paclet, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Sat 28 Apr 2018 16:06:51|>, <|Commit -> 86e4c039ffea8f79120a409848914b41c7315a43, Message -> Updated paclet PublicPacletServer-0.0.1.paclet in queue, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Sat 28 Apr 2018 16:09:25|>, <|Commit -> 705a1aa3a76a8ff05c9a771b6adced56f4563933, Message -> Updated paclet PublicPacletServer-0.0.1.paclet in queue, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 30 Apr 2018 22:23:42|>, <|Commit -> 98b0c63f0faeae89d5d8d36654e000cc99bce075, Message -> Updated paclet PublicPacletServer-0.0.1.paclet in queue, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 30 Apr 2018 22:24:09|>, <|Commit -> e51edb7280fdd9c485b98ca903006c10653f935a, Message -> Delete PublicPacletServer-0.0.1.paclet, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 30 Apr 2018 23:14:49|>, <|Commit -> 9527f4625e00454e660a0e3e5b68981dac024d1a, Message -> Added paclet PublicPacletServer-0.0.1.paclet to queue, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 30 Apr 2018 23:21:58|>, <|Commit -> 7cd3beb6c2e28543b7462d39b3f06194ee7f7a72, Message -> Rebuilt on Mon 30 Apr 2018 23:47:11, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Mon 30 Apr 2018 23:47:11|>, <|Commit -> 1d1703bfff429f5d1a02cfdfa5b30fc71768daed, Message -> Manual update of interface paclet, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Tue 1 May 2018 01:10:33|>}]
-
-
----
 <a id="ServiceConnection_WolframCommunity" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 ## ServiceConnection_WolframCommunity
 
@@ -84,12 +84,5 @@ buildLogMDChunk[{<|Commit -> 2b08bd83af5a26e0ea23e1daae09ee1f11dfffe9, Message -
 buildLogMDChunk[{<|Commit -> cd3de9a28690fd165706666d84a306ee14ba537a, Message -> Add MaTeX 1.7.3 and IGraph/M 0.3.97.2, Author ->  Szabolcs HorvaÌt <szhorvat@gmail.com>, Date -> Thu 19 Apr 2018 02:27:02|>, <|Commit -> adfd8a3d33b5bf83e57e9a6ad549d7797d794cca, Message -> Commited via Mathematica
     
     Rebuilt on Thu 19 Apr 2018 13:33:38, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Thu 19 Apr 2018 13:33:38|>, <|Commit -> cb348ed6570f213c18e98efac2b9dc99332341ba, Message -> Rebuild, Author ->  b3m2a1 <b3m2a1@gmail.com>, Date -> Thu 19 Apr 2018 13:35:04|>}]
-
-
----
-<a id="PublicPacletSever" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## PublicPacletSever
-
-buildLogMDChunk[{<|Author -> b3m2a1 <b3m2a1@gmail.com>, Date -> Tue 5 Jun 2018 18:56:52, Message -> Manually updated PublicPacletServer|>}]
 
 
