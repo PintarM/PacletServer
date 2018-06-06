@@ -22,7 +22,7 @@ Cell[BoxData[
       RowBox[{"NotebookDirectory", "[", "]"}], ",", " ", "\"\<src\>\"", ",", 
       " ", "\"\<BuildScript.m\>\""}], "}"}]}], "]"}], ";"}]], "Code",
  CellLabel->
-  "In[665]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
+  "In[736]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
 
 Cell[CellGroupData[{
 
@@ -187,7 +187,7 @@ Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "\"\<Push\>\"", "]"}], 
   ";"}]], "Input",
- CellLabel->"In[526]:=",ExpressionUUID->"39508e2c-da5d-46c7-be14-6be2a4d9daee"]
+ CellLabel->"In[739]:=",ExpressionUUID->"39508e2c-da5d-46c7-be14-6be2a4d9daee"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -206,7 +206,8 @@ Cell[BoxData[
      " ", "\[IndentingNewLine]", "\"\<Log\>\"", ",", "\[IndentingNewLine]", 
      "\"\<Build\>\"", ",", " ", "\[IndentingNewLine]", "\"\<Test\>\""}], 
     "\[IndentingNewLine]", "}"}], "\[IndentingNewLine]", "]"}], 
-  ";"}]], "Input",ExpressionUUID->"ebada0f3-bcbb-47e4-b5db-9243f9ee5a04"]
+  ";"}]], "Input",
+ CellLabel->"In[738]:=",ExpressionUUID->"ebada0f3-bcbb-47e4-b5db-9243f9ee5a04"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -214,27 +215,11 @@ Cell[CellGroupData[{
 Cell["Just Build and Push", \
 "Subsubsection",ExpressionUUID->"a8e1b643-ab5d-4d9c-87af-70504ac6fcb0"],
 
-Cell[CellGroupData[{
-
 Cell[BoxData[
  RowBox[{"PublicPacletServerRebuild", "[", 
   RowBox[{"{", 
    RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Push\>\""}], "}"}], "]"}]], "Input",
- CellLabel->
-  "In[527]:=",ExpressionUUID->"f79e3563-6c15-4efb-9143-a5e5eadbb480"],
-
-Cell[BoxData[
- RowBox[{"\[LeftAssociation]", 
-  RowBox[{
-   RowBox[{"\<\"Build\"\>", 
-    "\[Rule]", "\<\"/Users/Mark/Documents/GitHub/PacletServer/docs\"\>"}], 
-   ",", 
-   RowBox[{"\<\"Push\"\>", 
-    "\[Rule]", "\<\"To https://github.com/paclets/PacletServer.git\\n   \
-0a62c20..d351fb1  master -> master\"\>"}]}], 
-  "\[RightAssociation]"}]], "Output",
- CellLabel->"Out[527]=",ExpressionUUID->"eb79d061-e31c-439e-8c71-b74121c0d304"]
-}, Open  ]]
+ CellLabel->"In[527]:=",ExpressionUUID->"f79e3563-6c15-4efb-9143-a5e5eadbb480"]
 }, Open  ]]
 }, Open  ]],
 
