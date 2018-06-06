@@ -1,5 +1,11 @@
 <|
+	"IncludedPaclets" -> {},
 	"BTools" -> {
+		<|
+			"Date" -> "Tue 5 Jun 2018 21:39:00",
+			"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+			"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
+		|>,
 		<|
 			"Date" -> "Tue 5 Jun 2018 21:14:08",
 			"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
@@ -117,7 +123,7 @@
 	"PublicPacletServer" -> {
 		<|
 			"Author" -> "b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Tue 5 Jun 2018 18:56:52",
+			"Date" -> "Tue 5 Jun 2018 21:30:56",
 			"Message" -> "Manually updated PublicPacletServer"
 		|>,
 		<|
