@@ -47,19 +47,19 @@ There is a relatively simple three-step process if large changes to the server a
 
 * Create a fork of the repository in your GitHub account:
 
- ![readme-1938869243669002660](../img/readme-1938869243669002660.png)
+ ![readme-1938869243669002660](project/img/readme-1938869243669002660.png)
 
 * Clone this fork locally:
 
- ![readme-3602680150337386159](../img/readme-3602680150337386159.png) 
+ ![readme-3602680150337386159](project/img/readme-3602680150337386159.png) 
 
 Alternately, instead of cloning locally, you can make changes via the GitHub web interface:
 
- ![readme-9114048340917843819](../img/readme-9114048340917843819.png)
+ ![readme-9114048340917843819](project/img/readme-9114048340917843819.png)
 
 * Add your paclets to the   ```ReviewQueue```  folder and submit a pull request:
 
- ![readme-535681948188610017](../img/readme-535681948188610017.png)
+ ![readme-535681948188610017](project/img/readme-535681948188610017.png)
 
 ### Via Interface Paclet
 
