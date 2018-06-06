@@ -1,12 +1,6 @@
 <|
 	"BTools" -> {
 		<|
-			"Commit" -> "69a0259151c71ea6efc5586a1673c8ac105f794a",
-			"Message" -> "Prelog commit",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Tue 5 Jun 2018 21:15:53"
-		|>,
-		<|
 			"Date" -> "Tue 5 Jun 2018 21:14:08",
 			"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
 			"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
