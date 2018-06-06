@@ -72,8 +72,8 @@ buildLogMDBit[IncludedPaclets, {}]
 *** Monday 23 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
 >Push of the unpushed
-    
-    Stuff didnât get auto-committed, oddly
+>    
+>    Stuff didnât get auto-committed, oddly
 
 *** Monday 23 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
