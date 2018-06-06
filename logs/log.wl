@@ -1,13 +1,6 @@
 <|
 	"BTools" -> {
 		<|
-			"Date" -> DateString[
-				DateObject[PublicPacletServer`PackageScope`Private`s]
-			],
-			"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
-			"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
-		|>,
-		<|
 			"Commit" -> "9fa9b4482f858a455e6879df7706c114bc67d9ac",
 			"Message" -> "Initial Build",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
@@ -150,6 +143,11 @@
 			"Message" -> "Rebuilt on Mon 4 Jun 2018 18:01:59",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
 			"Date" -> "Mon 4 Jun 2018 18:01:59"
+		|>,
+		<|
+			"Date" -> "Tue 5 Jun 2018 21:14:08",
+			"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+			"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
 		|>,
 		<|
 			"Commit" -> "69a0259151c71ea6efc5586a1673c8ac105f794a",
