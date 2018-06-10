@@ -7,7 +7,7 @@ DisplayName: IGraphM
 Extensions: <|Kernel -> <|Root -> ., Context -> IGraphM`|>, LibraryLink -> <||>, Documentation -> <|MainPage -> Tutorials/IGDocumentation|>|>
 LastModified: 2018-06-04 17:59:32
 MathematicaVersion: 10.0+
-Modified: 2018-06-09 18:16:58
+Modified: 2018-06-09 18:39:29
 Name: IGraphM
 Slug: igraphm
 SystemID: MacOSX-x86-64,Windows-x86-64,Linux-x86-64

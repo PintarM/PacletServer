@@ -5,7 +5,7 @@ Description: A beta version of a paclet for interfacing with the public paclet s
 DisplayName: PublicPacletServer
 Extensions: <|Kernel -> <|Root -> ., Context -> {PublicPacletServer`}|>, PacletServer -> <|Description -> A beta version of a paclet for interfacing with the public paclet server Current supports: forking the server, submitting paclets, sending PRs, cloning the server, and building the server|>|>
 LastModified: 2018-06-05 21:32:06
-Modified: 2018-06-09 18:17:02
+Modified: 2018-06-09 18:39:32
 Name: PublicPacletServer
 Slug: publicpacletserver
 Tags: 

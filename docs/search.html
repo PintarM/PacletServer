@@ -73,9 +73,7 @@
 </script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
-  <script src="theme/tipuesearch/tipuesearch_content.js"></script>
   <link rel="stylesheet" href="theme/tipuesearch/tipuesearch.css">
-  <script src="theme/tipuesearch/tipuesearch_set.js"></script>
   <script src="theme/tipuesearch/tipuesearch.min.js"></script>
   </head>
 <body onload="">
@@ -124,6 +122,9 @@
 </ul>
               </div>
 <div class="search-box">
+  <script>
+    var search_SiteURL = "https://paclets.github.io/PacletServer"
+  </script>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
   <link rel="stylesheet" href="theme/tipuesearch/tipuesearch.css">
   <form action="search.html">
@@ -153,6 +154,8 @@
       <div id="tipue_search_content"></div>
     </div>
   </div>
+  <script src="theme/tipuesearch/tipuesearch_content.js"></script>
+  <script src="theme/tipuesearch/tipuesearch_set.js"></script>
   <script>
     function waitPerformSearch(){
       var tipuesearch_config = [
