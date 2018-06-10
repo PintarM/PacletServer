@@ -164,12 +164,14 @@ footer styles
   padding: 10px 0 10px 10px;
   border-top: 1px solid rgba(0,0,0,.1);
   background: #ccc;
-  min-height: 40px;
+  min-height: 50px;
+  margin-top: 10px;
 }
 
 p.acknowledgement {
   float:right;
   margin-bottom: 0;
+  margin-right: 15px;
 }
 
 p.acknowledgement a{
@@ -184,13 +186,14 @@ top-bar styles
 
 .top-bar {
 
-  height: 100%;
+  height: 130px;
   width: 100%;
   max-width: none;
   border-bottom: 1px solid rgba(0,0,0,.1);
   padding-top: 5px;
   background-image: url(../img/mma-se-bg.png);
   background-repeat: repeat-x;
+  background-size: auto 100%
   color: white;
 }
 
@@ -220,7 +223,7 @@ top-bar styles
 }
 
 .site-title {
-  height: 105px;
+  height: 130px;
   width: auto;
   padding: .5rem 0 .5rem .5rem;
   display: inline-flex;
@@ -238,6 +241,7 @@ top-bar styles
   border-radius: 5px;
   display: flex;
   flex-direction: row;
+  clear: left;
 }
 
 .site-links a {
@@ -369,6 +373,28 @@ misc styles
 .center-aligned {
   margin-left: auto;
   margin-right: auto;
+}
+
+.site-links-search-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.search-box {
+  margin: 5px -15px 5px -2px;
+  height: 43px;
+}
+
+.search-box .tipue_search_group {
+  height: 43px;
+}
+
+.search-box #tipue_search_input {
+  height: 43px;
+}
+
+.search-box .tipue_search_button {
+  height: 45px;
 }
 
 /*

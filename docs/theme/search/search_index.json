@@ -1,0 +1,81 @@
+{
+	"pages":[
+		{
+			"title":"BTools",
+			"text":"‌   BTools     \nA general purpose package that implements useful functionality for application development. Features include: distribution tools, documentation generation, front-end manipulation, and application editing   \n\n  ‌   Install  \n  Before installing, be sure to check out the     Change Log     to make sure that you trust the developer.    \nTo install this paclet, run:      PacletInstall[ \"BTools\", \"Site\"-> \"http:\/\/raw.githubusercontent.com\/paclets\/PacletServer\/master\" ]    \nDepending on what the current value of $ContextPath is you may also need to first run      Needs[\"PacletManager`\"]    \nTo update it, replace PacletInstall with PacletUpdate . To uninstall replace PacletInstall with PacletUninstall and remove the \"Site\" parameter.  \n\n  ‌   Basic Information   Name  \nBTools    Version  \n2.1.14    Creator   b3m2a1@gmail.com   URL   https:\/\/github.com\/b3m2a1\/mathematica-BTools   License  \nMIT   \n\n  ‌   Extra Information  \nThis package provides no extra information   \n\n  ‌   Extensions   Kernel  \nRoot: . Context: BTools`   Resource  \nRoot: Resources Resources: Icons, PaletteGenerators, Templates, Themes SystemID: *   FrontEnd  \nPrepend: True",
+			"tags":"documentation front-end paclets web",
+			"url":"btools.html",
+			"note":""
+		},
+		{
+			"title":"ChemTools",
+			"text":"‌   ChemTools     \nA collection of packages for object oriented chemistry. The primary packages implement an object and data framework. Support is included for basic spectroscopy and a few different external programs. A moderately sophisticated discrete variable representation framework is included as well.   \n\n  ‌   Install  \n  Before installing, be sure to check out the     Change Log     to make sure that you trust the developer.    \nTo install this paclet, run:      PacletInstall[ \"ChemTools\", \"Site\"-> \"http:\/\/raw.githubusercontent.com\/paclets\/PacletServer\/master\" ]    \nDepending on what the current value of $ContextPath is you may also need to first run      Needs[\"PacletManager`\"]    \nTo update it, replace PacletInstall with PacletUpdate . To uninstall replace PacletInstall with PacletUninstall and remove the \"Site\" parameter.  \n\n  ‌   Basic Information   Name  \nChemTools    Version  \n1.2.4    Creator   b3m2a1@gmail.com  \n\n  ‌   Extra Information  \nThis package provides no extra information   \n\n  ‌   Extensions   Kernel  \nRoot: . Context: ChemTools`   FrontEnd  \nThis extension has no extra parameters   Formats  \nThis extension has no extra parameters   Resource  \nRoot: Resources Resources: Datasets, Extensions, PaletteGenerators, Templates SystemID: *",
+			"tags":"chemistry",
+			"url":"chemtools.html",
+			"note":""
+		},
+		{
+			"title":"CompoundMatrixMethod",
+			"text":"‌   CompoundMatrixMethod  \nSolve Eigenvalue Boundary Value Problems using the Compound Matrix Method to generate the Evans function.   \n\n  ‌   Install  \n  Before installing, be sure to check out the     Change Log     to make sure that you trust the developer.    \nTo install this paclet, run:      PacletInstall[ \"CompoundMatrixMethod\", \"Site\"-> \"http:\/\/raw.githubusercontent.com\/paclets\/PacletServer\/master\" ]    \nDepending on what the current value of $ContextPath is you may also need to first run      Needs[\"PacletManager`\"]    \nTo update it, replace PacletInstall with PacletUpdate . To uninstall replace PacletInstall with PacletUninstall and remove the \"Site\" parameter.  \n\n  ‌   Basic Information   Name  \nCompoundMatrixMethod    Version  \n0.7    Creator  \nSimon Pearce   \n\n  ‌   Extra Information   MathematicaVersion  \n9+   \n\n  ‌   Extensions   Kernel  \nRoot: . Context: CompoundMatrixMethod`",
+			"tags":"",
+			"url":"compoundmatrixmethod.html",
+			"note":""
+		},
+		{
+			"title":"IGraphM",
+			"text":"‌   IGraphM     \nIGraph\/M – the igraph interface for Mathematica.   \n\n  ‌   Install  \n  Before installing, be sure to check out the     Change Log     to make sure that you trust the developer.    \nTo install this paclet, run:      PacletInstall[ \"IGraphM\", \"Site\"-> \"http:\/\/raw.githubusercontent.com\/paclets\/PacletServer\/master\" ]    \nDepending on what the current value of $ContextPath is you may also need to first run      Needs[\"PacletManager`\"]    \nTo update it, replace PacletInstall with PacletUpdate . To uninstall replace PacletInstall with PacletUninstall and remove the \"Site\" parameter.  \n\n  ‌   Basic Information   Name  \nIGraphM    Version  \n0.3.99.1    Creator   Szabolcs Horvát   URL   http:\/\/szhorvat.net\/mathematica\/IGraphM  \n\n  ‌   Extra Information   MathematicaVersion  \n10.0+    SystemID  \nMacOSX-x86-64, Windows-x86-64, Linux-x86-64   \n\n  ‌   Extensions   Kernel  \nRoot: . Context: IGraphM`   LibraryLink  \nThis extension has no extra parameters   Documentation  \nMainPage: Tutorials\/IGDocumentation",
+			"tags":"",
+			"url":"igraphm.html",
+			"note":""
+		},
+		{
+			"title":"ImportMesh",
+			"text":"‌   ImportMesh  \nUtilities for importing FEM meshes from other software.   \n\n  ‌   Install  \n  Before installing, be sure to check out the     Change Log     to make sure that you trust the developer.    \nTo install this paclet, run:      PacletInstall[ \"ImportMesh\", \"Site\"-> \"http:\/\/raw.githubusercontent.com\/paclets\/PacletServer\/master\" ]    \nDepending on what the current value of $ContextPath is you may also need to first run      Needs[\"PacletManager`\"]    \nTo update it, replace PacletInstall with PacletUpdate . To uninstall replace PacletInstall with PacletUninstall and remove the \"Site\" parameter.  \n\n  ‌   Basic Information   Name  \nImportMesh    Version  \n0.3.1    Creator   info@c3m.si   URL   https:\/\/github.com\/c3m-labs\/ImportMesh   Publisher  \nC3M d.o.o.   \n\n  ‌   Extra Information   WolframVersion  \n11.+   \n\n  ‌   Extensions   Kernel  \nRoot: . Context: ImportMesh`",
+			"tags":"finite-elements mesh import",
+			"url":"importmesh.html",
+			"note":""
+		},
+		{
+			"title":"MaTeX",
+			"text":"‌   MaTeX     \nCreate LaTeX-typeset labels within Mathematica.   \n\n  ‌   Install  \n  Before installing, be sure to check out the     Change Log     to make sure that you trust the developer.    \nTo install this paclet, run:      PacletInstall[ \"MaTeX\", \"Site\"-> \"http:\/\/raw.githubusercontent.com\/paclets\/PacletServer\/master\" ]    \nDepending on what the current value of $ContextPath is you may also need to first run      Needs[\"PacletManager`\"]    \nTo update it, replace PacletInstall with PacletUpdate . To uninstall replace PacletInstall with PacletUninstall and remove the \"Site\" parameter.  \n\n  ‌   Basic Information   Name  \nMaTeX    Version  \n1.7.3    Creator   Szabolcs Horvát   URL   http:\/\/szhorvat.net\/mathematica\/MaTeX  \n\n  ‌   Extra Information   MathematicaVersion  \n10.0+   \n\n  ‌   Extensions   Documentation  \nLanguage: All MainPage: Guides\/MaTeX   Kernel  \nRoot: . Context: MaTeX`",
+			"tags":"",
+			"url":"matex.html",
+			"note":""
+		},
+		{
+			"title":"PublicPacletServer",
+			"text":"‌   PublicPacletServer     \nA beta version of a paclet for interfacing with the public paclet server Current supports: forking the server, submitting paclets, sending PRs, cloning the server, and building the server   \n\n  ‌   Install  \n  Before installing, be sure to check out the     Change Log     to make sure that you trust the developer.    \nTo install this paclet, run:      PacletInstall[ \"PublicPacletServer\", \"Site\"-> \"http:\/\/raw.githubusercontent.com\/paclets\/PacletServer\/master\" ]    \nDepending on what the current value of $ContextPath is you may also need to first run      Needs[\"PacletManager`\"]    \nTo update it, replace PacletInstall with PacletUpdate . To uninstall replace PacletInstall with PacletUninstall and remove the \"Site\" parameter.  \n\n  ‌   Basic Information   Name  \nPublicPacletServer    Version  \n0.0.1   \n\n  ‌   Extra Information  \nThis package provides no extra information   \n\n  ‌   Extensions   Kernel  \nRoot: . Context: PublicPacletServer`",
+			"tags":"",
+			"url":"publicpacletserver.html",
+			"note":""
+		},
+		{
+			"title":"ServiceConnection_NASA",
+			"text":"‌   NASA (ServiceConnection)     \nA service connection to NASA's APIs   \n\n  ‌   Install  \n  Before installing, be sure to check out the     Change Log     to make sure that you trust the developer.    \nTo install this paclet, run:      PacletInstall[ \"ServiceConnection_NASA\", \"Site\"-> \"http:\/\/raw.githubusercontent.com\/paclets\/PacletServer\/master\" ]    \nDepending on what the current value of $ContextPath is you may also need to first run      Needs[\"PacletManager`\"]    \nTo update it, replace PacletInstall with PacletUpdate . To uninstall replace PacletInstall with PacletUninstall and remove the \"Site\" parameter.  \n\n  ‌   Basic Information   Name  \nServiceConnection_NASA    Version  \n1.0.1    Creator   b3m2a1@gmail.com  \n\n  ‌   Extra Information  \nThis package provides no extra information   \n\n  ‌   Extensions   FrontEnd  \nPrepend: True",
+			"tags":"web serviceconnection nasa",
+			"url":"serviceconnectionnasa.html",
+			"note":""
+		},
+		{
+			"title":"ServiceConnection_StackExchange",
+			"text":"‌   StackExchange (ServiceConnection)     \nA service connection to the Stack Exchange API. Supports the majority of the functions defined in the API   \n\n  ‌   Install  \n  Before installing, be sure to check out the     Change Log     to make sure that you trust the developer.    \nTo install this paclet, run:      PacletInstall[ \"ServiceConnection_StackExchange\", \"Site\"-> \"http:\/\/raw.githubusercontent.com\/paclets\/PacletServer\/master\" ]    \nDepending on what the current value of $ContextPath is you may also need to first run      Needs[\"PacletManager`\"]    \nTo update it, replace PacletInstall with PacletUpdate . To uninstall replace PacletInstall with PacletUninstall and remove the \"Site\" parameter.  \n\n  ‌   Basic Information   Name  \nServiceConnection_StackExchange    Version  \n1.1.7    Creator   b3m2a1@gmail.com  \n\n  ‌   Extra Information  \nThis package provides no extra information   \n\n  ‌   Extensions   FrontEnd  \nThis extension has no extra parameters",
+			"tags":"web serviceconnection",
+			"url":"serviceconnectionstackexchange.html",
+			"note":""
+		},
+		{
+			"title":"ServiceConnection_WolframCommunity",
+			"text":"‌   WolframCommunity (ServiceConnection)  \nA hacked-up ServiceConnection to the Wolfram Community website   \n\n  ‌   Install  \n  Before installing, be sure to check out the     Change Log     to make sure that you trust the developer.    \nTo install this paclet, run:      PacletInstall[ \"ServiceConnection_WolframCommunity\", \"Site\"-> \"http:\/\/raw.githubusercontent.com\/paclets\/PacletServer\/master\" ]    \nDepending on what the current value of $ContextPath is you may also need to first run      Needs[\"PacletManager`\"]    \nTo update it, replace PacletInstall with PacletUpdate . To uninstall replace PacletInstall with PacletUninstall and remove the \"Site\" parameter.  \n\n  ‌   Basic Information   Name  \nServiceConnection_WolframCommunity    Version  \n1.0.3   \n\n  ‌   Extra Information  \nThis package provides no extra information   \n\n  ‌   Extensions   FrontEnd  \nThis extension has no extra parameters",
+			"tags":"",
+			"url":"serviceconnectionwolframcommunity.html",
+			"note":""
+		},
+		{
+			"title":"SymbolObjects",
+			"text":"‌   SymbolObjects  \nA light-weight object framework for Mathematica   \n\n  ‌   Install  \n  Before installing, be sure to check out the     Change Log     to make sure that you trust the developer.    \nTo install this paclet, run:      PacletInstall[ \"SymbolObjects\", \"Site\"-> \"http:\/\/raw.githubusercontent.com\/paclets\/PacletServer\/master\" ]    \nDepending on what the current value of $ContextPath is you may also need to first run      Needs[\"PacletManager`\"]    \nTo update it, replace PacletInstall with PacletUpdate . To uninstall replace PacletInstall with PacletUninstall and remove the \"Site\" parameter.  \n\n  ‌   Basic Information   Name  \nSymbolObjects    Version  \n1.0.0    Creator   b3m2a1@gmail.com  \n\n  ‌   Extra Information  \nThis package provides no extra information   \n\n  ‌   Extensions   Kernel  \nRoot: . Context: SymbolObjects`",
+			"tags":"",
+			"url":"symbolobjects.html",
+			"note":""
+		}
+	]
+}
