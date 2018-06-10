@@ -91,8 +91,9 @@
   >
       Mathematica Paclet Server</a>
         </h1>
-        <div class="site-links">
-          <ul class="list-inline row">
+            <div class="site-links-search-row">
+              <div class="site-links">
+                <ul class="list-inline row">
 <li class="list-inline-item">
 <a
       href='https://paclets.github.io/PacletServer/pages/about.html'
@@ -124,7 +125,25 @@
       GitHub</a>
 </li>
 </ul>
-        </div>
+              </div>
+<div class="search-box">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+  <link rel="stylesheet" href="theme/tipuesearch/tipuesearch.css">
+  <form action="search.html">
+    <div class="tipue_search_group">
+      <input
+        type="text"
+        name="q"
+        id="tipue_search_input"
+        pattern=".{3,}"
+        title="At least 3 characters" required>
+      <button type="submit" class="tipue_search_button">
+        <div class="tipue_search_icon">&#9906;</div>
+      </button>
+    </div>
+  </form>
+</div>
+            </div>
       </div>
     </div>
   </header>
@@ -174,7 +193,7 @@
 <p>PublicPacletServer
 </p>
 <h3> Version</h3>
-<p>0.0.1
+<p>0.0.2
 </p>
 <hr />
 <a shape='rect' id='extra-information' style='width:0;height:0;margin:0;padding:0;'>&#8204;</a>
