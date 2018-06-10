@@ -54,8 +54,9 @@ f006baabc747"],
 
 Cell[BoxData[
  RowBox[{
-  RowBox[{"PublicPacletServerRebuild", "[", "]"}], 
-  ";"}]], "Input",ExpressionUUID->"f6ff1e93-5da7-4e98-b4ee-483684eef167"],
+  RowBox[{"PublicPacletServerRebuild", "[", "]"}], ";"}]], "Input",
+ CellLabel->
+  "In[363]:=",ExpressionUUID->"f6ff1e93-5da7-4e98-b4ee-483684eef167"],
 
 Cell["It just rebuilds everything.", "Text",
  CellChangeTimes->{{3.7334296849200993`*^9, 
