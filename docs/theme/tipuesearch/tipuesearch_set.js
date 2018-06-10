@@ -36,10 +36,16 @@ $.getJSON("../theme/search/search_weights.json",
 $.getJSON("../search/search_weights.json",
   function(data) { tipuesearch_weight = data }
   );
+$.getJSON("theme/search/search_weights.json",
+  function(data) { tipuesearch_weight = data }
+  );
 
 // Illogical stemming
 
 var tipuesearch_stem;
+$.getJSON("theme/search/search_stems.json",
+  function(data) { tipuesearch_stem = data }
+  );
 $.getJSON("../theme/search/search_stems.json",
   function(data) { tipuesearch_stem = data }
   );
@@ -47,9 +53,13 @@ $.getJSON("../search/search_stems.json",
   function(data) { tipuesearch_stem = data }
   );
 
+
 // Related
 
 var tipuesearch_related;
+$.getJSON("theme/search/search_related.json",
+  function(data) { tipuesearch_related = data }
+  );
 $.getJSON("../theme/search/search_related.json",
   function(data) { tipuesearch_related = data }
   );
