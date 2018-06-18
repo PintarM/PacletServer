@@ -1,5 +1,29 @@
 <|
+	"MaTeX" -> {
+		<|
+			"Date" -> "Mon 18 Jun 2018 10:10:54",
+			"Message" -> "Downloaded paclet MaTeX from https://github.com/szhorvat/MaTeX/releases/latest",
+			"Author" -> "Szabolcs Horvát <szhorvat@gmail.com>"
+		|>,
+		<|
+			"Commit" -> "cb348ed6570f213c18e98efac2b9dc99332341ba",
+			"Message" -> "Rebuild",
+			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
+			"Date" -> "Thu 19 Apr 2018 13:35:04"
+		|>,
+		<|
+			"Commit" -> "cd3de9a28690fd165706666d84a306ee14ba537a",
+			"Message" -> "Add MaTeX 1.7.3 and IGraph/M 0.3.97.2",
+			"Author" -> " Szabolcs HorvaÌt <szhorvat@gmail.com>",
+			"Date" -> "Thu 19 Apr 2018 11:27:02"
+		|>
+	},
 	"BTools" -> {
+		<|
+			"Date" -> "Mon 18 Jun 2018 10:10:50",
+			"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+			"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
+		|>,
 		<|
 			"Date" -> "Tue 5 Jun 2018 21:39:34",
 			"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
@@ -342,20 +366,6 @@
 			"Message" -> "Fixed bad image links",
 			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
 			"Date" -> "Thu 26 Apr 2018 00:26:46"
-		|>
-	},
-	"MaTeX" -> {
-		<|
-			"Commit" -> "cb348ed6570f213c18e98efac2b9dc99332341ba",
-			"Message" -> "Rebuild",
-			"Author" -> " b3m2a1 <b3m2a1@gmail.com>",
-			"Date" -> "Thu 19 Apr 2018 13:35:04"
-		|>,
-		<|
-			"Commit" -> "cd3de9a28690fd165706666d84a306ee14ba537a",
-			"Message" -> "Add MaTeX 1.7.3 and IGraph/M 0.3.97.2",
-			"Author" -> " Szabolcs HorvaÌt <szhorvat@gmail.com>",
-			"Date" -> "Thu 19 Apr 2018 11:27:02"
 		|>
 	}
 |>

@@ -1,7 +1,28 @@
 # Paclet Server Log
 
+<a id="MaTeX" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## MaTeX
+
+*** Monday 18 June 2018 ***
+* Author: Szabolcs Horvát <szhorvat@gmail.com>
+>Downloaded paclet MaTeX from https://github.com/szhorvat/MaTeX/releases/latest
+
+*** Thursday 19 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Rebuild
+
+*** Thursday 19 April 2018 ***
+* Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
+>Add MaTeX 1.7.3 and IGraph/M 0.3.97.2
+
+
+---
 <a id="BTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 ## BTools
+
+*** Monday 18 June 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+>Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Tuesday 5 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
@@ -269,18 +290,5 @@
 *** Thursday 26 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
 >Fixed bad image links
-
-
----
-<a id="MaTeX" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## MaTeX
-
-*** Thursday 19 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Rebuild
-
-*** Thursday 19 April 2018 ***
-* Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
->Add MaTeX 1.7.3 and IGraph/M 0.3.97.2
 
 
