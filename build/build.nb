@@ -156,7 +156,9 @@ f5e5d6496191"],
 Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "\"\<Build\>\"", "]"}], 
-  ";"}]], "Input",ExpressionUUID->"357a0c8d-ac5b-4a66-942a-9784d7753162"],
+  ";"}]], "Input",
+ CellLabel->
+  "In[368]:=",ExpressionUUID->"357a0c8d-ac5b-4a66-942a-9784d7753162"],
 
 Cell["Regenerate all the content pages", "Text",
  CellChangeTimes->{{3.733431732585972*^9, 
