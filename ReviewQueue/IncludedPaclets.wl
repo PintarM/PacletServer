@@ -1,3 +1,5 @@
+(* ::Package:: *)
+
 {
 	<|
 		"Name" -> "BTools",
@@ -7,8 +9,8 @@
 	|>,
 	<|
 		"Name" -> "MaTeX",
-		"Author" -> "Szabolcs Horvát <szhorvat@gmail.com>",
+		"Author" -> "Szabolcs Horv\[AAcute]t <szhorvat@gmail.com>",
 		"URL" -> "https://github.com/szhorvat/MaTeX/releases/latest",
-		"Update" -> "UpdateNever"
+		"Update" -> "DownloadNever"
 	|>
 }

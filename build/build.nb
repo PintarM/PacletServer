@@ -22,7 +22,7 @@ Cell[BoxData[
       RowBox[{"NotebookDirectory", "[", "]"}], ",", " ", "\"\<src\>\"", ",", 
       " ", "\"\<BuildScript.m\>\""}], "}"}]}], "]"}], ";"}]], "Code",
  CellLabel->
-  "In[348]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
+  "In[230]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
 
 Cell[CellGroupData[{
 
@@ -55,8 +55,7 @@ f006baabc747"],
 Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "]"}], ";"}]], "Input",
- CellLabel->
-  "In[363]:=",ExpressionUUID->"f6ff1e93-5da7-4e98-b4ee-483684eef167"],
+ CellLabel->"In[52]:=",ExpressionUUID->"f6ff1e93-5da7-4e98-b4ee-483684eef167"],
 
 Cell["It just rebuilds everything.", "Text",
  CellChangeTimes->{{3.7334296849200993`*^9, 
@@ -119,6 +118,19 @@ Cell["Targeted Builds", "Subsection",
  CellChangeTimes->{{3.733432135823681*^9, 
   3.7334321383355417`*^9}},ExpressionUUID->"e6a364a0-0bf4-47f6-b2fa-\
 a81c5c76ff66"],
+
+Cell[CellGroupData[{
+
+Cell["Just download paclets", \
+"Subsubsection",ExpressionUUID->"26850287-4f9e-41bb-9ca2-d8a663097626"],
+
+Cell["This will download any new updated paclets", \
+"Text",ExpressionUUID->"589c3adf-aee6-4123-8184-ee654d06733e"],
+
+Cell[BoxData[
+ RowBox[{"PublicPacletServerRebuild", "[", "\"\<UpdateQueue\>\"", 
+  "]"}]], "Input",ExpressionUUID->"d4cf424c-a9ef-42dd-b76c-fd842c88e55e"]
+}, Open  ]],
 
 Cell[CellGroupData[{
 
