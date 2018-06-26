@@ -5,7 +5,7 @@ Description: A hacked-up ServiceConnection to the Wolfram Community website
 DisplayName: WolframCommunity (ServiceConnection)
 Extensions: <|FrontEnd -> <|Prepend -> True|>|>
 LastModified: 2018-06-04 17:59:32
-Modified: 2018-06-09 18:39:35
+Modified: 2018-06-26 07:45:36
 Name: ServiceConnection_WolframCommunity
 Slug: serviceconnectionwolframcommunity
 Tags: 
