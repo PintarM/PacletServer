@@ -22,7 +22,7 @@ Cell[BoxData[
       RowBox[{"NotebookDirectory", "[", "]"}], ",", " ", "\"\<src\>\"", ",", 
       " ", "\"\<BuildScript.m\>\""}], "}"}]}], "]"}], ";"}]], "Code",
  CellLabel->
-  "In[230]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
+  "In[389]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
 
 Cell[CellGroupData[{
 
@@ -127,9 +127,22 @@ Cell["Just download paclets", \
 Cell["This will download any new updated paclets", \
 "Text",ExpressionUUID->"589c3adf-aee6-4123-8184-ee654d06733e"],
 
+Cell[CellGroupData[{
+
 Cell[BoxData[
  RowBox[{"PublicPacletServerRebuild", "[", "\"\<UpdateQueue\>\"", 
-  "]"}]], "Input",ExpressionUUID->"d4cf424c-a9ef-42dd-b76c-fd842c88e55e"]
+  "]"}]], "Input",
+ CellLabel->
+  "In[393]:=",ExpressionUUID->"d4cf424c-a9ef-42dd-b76c-fd842c88e55e"],
+
+Cell[BoxData[
+ RowBox[{"\[LeftAssociation]", 
+  RowBox[{"\<\"UpdateQueue\"\>", 
+   "\[Rule]", \
+"\<\"/Users/Mark/Documents/GitHub/PacletServer/logs/download_log.wl\"\>"}], 
+  "\[RightAssociation]"}]], "Output",
+ CellLabel->"Out[393]=",ExpressionUUID->"25930b53-501b-4b46-b704-f5466174dd85"]
+}, Open  ]]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -150,7 +163,9 @@ This will just add the paclets to the index without rebuilding the pages\
 Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "\"\<Add\>\"", "]"}], 
-  ";"}]], "Input",ExpressionUUID->"0ebc48bb-f7cf-42c0-9dcf-8a390f7175fa"]
+  ";"}]], "Input",
+ EmphasizeSyntaxErrors->True,
+ CellLabel->"In[395]:=",ExpressionUUID->"0ebc48bb-f7cf-42c0-9dcf-8a390f7175fa"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -233,7 +248,8 @@ Cell[BoxData[
  RowBox[{"PublicPacletServerRebuild", "[", 
   RowBox[{"{", 
    RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Push\>\""}], "}"}], "]"}]], "Input",
- CellLabel->"In[527]:=",ExpressionUUID->"f79e3563-6c15-4efb-9143-a5e5eadbb480"]
+ CellLabel->
+  "In[16]:=",ExpressionUUID->"f79e3563-6c15-4efb-9143-a5e5eadbb480"]
 }, Open  ]]
 }, Open  ]],
 
@@ -385,7 +401,7 @@ Cell[BoxData[
 }, Open  ]]
 },
 WindowSize->{808, 755},
-WindowMargins->{{69, Automatic}, {Automatic, 0}},
+WindowMargins->{{232, Automatic}, {0, Automatic}},
 PrivateNotebookOptions->{"FileContents"->{"NotebookData"},
 "FileOutlineCache"->False},
 TrackCellChangeTimes->False,

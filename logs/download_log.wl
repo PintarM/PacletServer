@@ -33,5 +33,20 @@
 		"Date" -> "Tue 19 Jun 2018 02:58:07",
 		"Message" -> "Downloaded paclet MaTeX from https://github.com/szhorvat/MaTeX/releases/latest",
 		"Author" -> "Szabolcs Horvát <szhorvat@gmail.com>"
+	|>,
+	"BTools" -> <|
+		"Date" -> "Tue 26 Jun 2018 07:35:02",
+		"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
+	|>,
+	"IGraphM" -> <|
+		"Date" -> "Tue 26 Jun 2018 07:35:10",
+		"Message" -> "Downloaded paclet IGraphM from https://github.com/szhorvat/IGraphM/releases/download/v0.3.100/IGraphM-0.3.100.paclet",
+		"Author" -> "Szabolcs Horvát <szhorvat@gmail.com>"
+	|>,
+	"PublicPacletServer" -> <|
+		"Date" -> "Tue 26 Jun 2018 07:38:25",
+		"Message" -> "Downloaded paclet PublicPacletServer from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
 	|>
 }
