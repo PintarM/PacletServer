@@ -1,11 +1,92 @@
 # Paclet Server Log
 
-<a id="MaTeX" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## MaTeX
+<a id="PublicPacletServer" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## PublicPacletServer
 
-*** Monday 18 June 2018 ***
+*** Tuesday 26 June 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+>Downloaded paclet PublicPacletServer from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
+
+*** Tuesday 5 June 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+>Manually updated PublicPacletServer
+
+*** Tuesday 1 May 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Manual update of interface paclet
+
+*** Monday 30 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Added paclet PublicPacletServer-0.0.1.paclet to queue
+
+*** Monday 30 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Delete PublicPacletServer-0.0.1.paclet
+
+*** Monday 30 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Updated paclet PublicPacletServer-0.0.1.paclet in queue
+
+*** Monday 30 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Updated paclet PublicPacletServer-0.0.1.paclet in queue
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Updated paclet PublicPacletServer-0.0.1.paclet in queue
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Added paclet PublicPacletServer-0.0.1.paclet to queue
+
+
+---
+<a id="IGraphM" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## IGraphM
+
+*** Tuesday 26 June 2018 ***
 * Author: Szabolcs Horvát <szhorvat@gmail.com>
->Downloaded paclet MaTeX from https://github.com/szhorvat/MaTeX/releases/latest
+>Downloaded paclet IGraphM from https://github.com/szhorvat/IGraphM/releases/download/v0.3.100/IGraphM-0.3.100.paclet
+
+*** Tuesday 1 May 2018 ***
+* Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
+>Add IGraph/M 0.3.99.1
+
+*** Monday 30 April 2018 ***
+* Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
+>Add IGraph/M 0.3.99
+
+*** Monday 30 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Commited via Mathematica
+
+*** Saturday 28 April 2018 ***
+* Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
+>Add IGraph/M 0.3.98
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Spring cleaning
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Push paclet and stuff
 
 *** Thursday 19 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
@@ -19,6 +100,14 @@
 ---
 <a id="BTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 ## BTools
+
+*** Tuesday 26 June 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+>Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
+
+*** Tuesday 19 June 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+>Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Monday 18 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
@@ -112,56 +201,42 @@
 
 
 ---
-<a id="PublicPacletServer" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## PublicPacletServer
+<a id="Rubi" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## Rubi
 
-*** Tuesday 5 June 2018 ***
-* Author: b3m2a1 <b3m2a1@gmail.com>
->Manually updated PublicPacletServer
+*** Tuesday 26 June 2018 ***
+* Author:  Patrick Scheibe <pscheibe@trm.uni-leipzig.de>
+>Add Rubi paclet
 
-*** Tuesday 1 May 2018 ***
+
+---
+<a id="MaTeX" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## MaTeX
+
+*** Tuesday 19 June 2018 ***
+* Author: Szabolcs Horvát <szhorvat@gmail.com>
+>Downloaded paclet MaTeX from https://github.com/szhorvat/MaTeX/releases/latest
+
+*** Monday 18 June 2018 ***
+* Author: Szabolcs Horvát <szhorvat@gmail.com>
+>Downloaded paclet MaTeX from https://github.com/szhorvat/MaTeX/releases/latest
+
+*** Thursday 19 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
->Manual update of interface paclet
+>Rebuild
 
-*** Monday 30 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Added paclet PublicPacletServer-0.0.1.paclet to queue
+*** Thursday 19 April 2018 ***
+* Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
+>Add MaTeX 1.7.3 and IGraph/M 0.3.97.2
 
-*** Monday 30 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Delete PublicPacletServer-0.0.1.paclet
 
-*** Monday 30 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated paclet PublicPacletServer-0.0.1.paclet in queue
+---
+<a id="Deus" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## Deus
 
-*** Monday 30 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated paclet PublicPacletServer-0.0.1.paclet in queue
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated paclet PublicPacletServer-0.0.1.paclet in queue
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Added paclet PublicPacletServer-0.0.1.paclet to queue
+*** Tuesday 19 June 2018 ***
+* Author: Sasaki Saki <galaster@foxmail.com>
+>Manually updated Deus paclet
 
 
 ---
@@ -227,43 +302,6 @@
 *** Saturday 5 May 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
 >Added paclet ServiceConnection_StackExchange-1.1.7.paclet to queue
-
-
----
-<a id="IGraphM" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## IGraphM
-
-*** Tuesday 1 May 2018 ***
-* Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
->Add IGraph/M 0.3.99.1
-
-*** Monday 30 April 2018 ***
-* Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
->Add IGraph/M 0.3.99
-
-*** Monday 30 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Commited via Mathematica
-
-*** Saturday 28 April 2018 ***
-* Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
->Add IGraph/M 0.3.98
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Spring cleaning
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Push paclet and stuff
-
-*** Thursday 19 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Rebuild
-
-*** Thursday 19 April 2018 ***
-* Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
->Add MaTeX 1.7.3 and IGraph/M 0.3.97.2
 
 
 ---

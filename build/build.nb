@@ -127,22 +127,10 @@ Cell["Just download paclets", \
 Cell["This will download any new updated paclets", \
 "Text",ExpressionUUID->"589c3adf-aee6-4123-8184-ee654d06733e"],
 
-Cell[CellGroupData[{
-
 Cell[BoxData[
- RowBox[{"PublicPacletServerRebuild", "[", "\"\<UpdateQueue\>\"", 
-  "]"}]], "Input",
- CellLabel->
-  "In[393]:=",ExpressionUUID->"d4cf424c-a9ef-42dd-b76c-fd842c88e55e"],
-
-Cell[BoxData[
- RowBox[{"\[LeftAssociation]", 
-  RowBox[{"\<\"UpdateQueue\"\>", 
-   "\[Rule]", \
-"\<\"/Users/Mark/Documents/GitHub/PacletServer/logs/download_log.wl\"\>"}], 
-  "\[RightAssociation]"}]], "Output",
- CellLabel->"Out[393]=",ExpressionUUID->"25930b53-501b-4b46-b704-f5466174dd85"]
-}, Open  ]]
+ RowBox[{
+  RowBox[{"PublicPacletServerRebuild", "[", "\"\<UpdateQueue\>\"", "]"}], 
+  ";"}]], "Input",ExpressionUUID->"d4cf424c-a9ef-42dd-b76c-fd842c88e55e"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -164,8 +152,7 @@ Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "\"\<Add\>\"", "]"}], 
   ";"}]], "Input",
- EmphasizeSyntaxErrors->True,
- CellLabel->"In[395]:=",ExpressionUUID->"0ebc48bb-f7cf-42c0-9dcf-8a390f7175fa"]
+ CellLabel->"In[397]:=",ExpressionUUID->"0ebc48bb-f7cf-42c0-9dcf-8a390f7175fa"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -237,6 +224,19 @@ Cell[BoxData[
      "\"\<Build\>\"", ",", " ", "\[IndentingNewLine]", "\"\<Test\>\""}], 
     "\[IndentingNewLine]", "}"}], "\[IndentingNewLine]", "]"}], 
   ";"}]], "Input",ExpressionUUID->"ebada0f3-bcbb-47e4-b5db-9243f9ee5a04"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Just Build and Test", \
+"Subsubsection",ExpressionUUID->"6f39f6a9-ee08-4cde-a414-6464bdaab5b0"],
+
+Cell[BoxData[
+ RowBox[{"PublicPacletServerRebuild", "[", 
+  RowBox[{"{", 
+   RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Test\>\""}], "}"}], "]"}]], "Input",
+ EmphasizeSyntaxErrors->True,
+ CellLabel->"In[401]:=",ExpressionUUID->"550d77ff-f86f-481e-9ebc-acc59a2d0384"]
 }, Open  ]],
 
 Cell[CellGroupData[{

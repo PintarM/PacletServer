@@ -4,8 +4,8 @@ Categories: misc
 Creator: Sasaki Saki <galaster@foxmail.com>
 DisplayName: Deus
 Extensions: <|Kernel -> <|Root -> ., Context -> {Deus`}|>, Documentation -> <|Language -> English, MainPage -> Guides\Deus|>|>
-LastModified: 2018-06-19 03:11:29
-Modified: 2018-06-19 03:13:58
+LastModified: 2018-06-26 07:39:27
+Modified: 2018-06-26 07:45:27
 Name: Deus
 Slug: deus
 Tags: 
