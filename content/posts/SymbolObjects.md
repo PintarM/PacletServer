@@ -6,7 +6,7 @@ Description: A light-weight object framework for Mathematica
 DisplayName: SymbolObjects
 Extensions: <|Kernel -> <|Root -> ., Context -> {SymbolObjects`}|>|>
 LastModified: 2018-06-04 17:52:34
-Modified: 2018-06-26 07:45:37
+Modified: 2018-06-29 13:10:43
 Name: SymbolObjects
 Slug: symbolobjects
 Tags: 

@@ -21,6 +21,18 @@
 		"Name" -> "PublicPacletServer",
 		"Author" -> "b3m2a1 <b3m2a1@gmail.com>",
 		"Site" -> "https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
-		"Update" -> "DownloadAlways"
+		"Update" -> "DownloadNever"
+	|>,
+	<|
+		"Name" -> "PyTools",
+		"Author" -> "b3m2a1 <b3m2a1@gmail.com>",
+		"Site" -> "https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+		"Update" -> "DownloadNever"
+	|>,
+	<|
+		"Name" -> "ChemTools",
+		"Author" -> "b3m2a1 <b3m2a1@gmail.com>",
+		"Site" -> "https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+		"Update" -> "DownloadNever"
 	|>
 }
