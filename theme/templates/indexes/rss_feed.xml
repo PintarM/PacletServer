@@ -10,7 +10,7 @@ This generates the rss_feed for the page
     <link><wolfram:slot id="SiteURL"/></link>
     <image>
       <url><wolfram:slot id="SiteURL"/>/favicon-32x32.png</url>
-      <title>Mathematica Paclet Server</title>
+      <title>Paclet Server</title>
       <link><wolfram:slot id="SiteURL"/></link>
     </image>
     <description>Mathematica Paclet Server</description>
