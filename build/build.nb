@@ -409,7 +409,7 @@ Cell[BoxData[
     RowBox[{"\"\<GenerateIndex\>\"", "\[Rule]", "True"}]}], 
    "\[IndentingNewLine]", "]"}], ";"}]], "Input",
  CellLabel->
-  "In[208]:=",ExpressionUUID->"6eb142e0-8408-4940-8857-c723bb3e23a6"],
+  "In[209]:=",ExpressionUUID->"6eb142e0-8408-4940-8857-c723bb3e23a6"],
 
 Cell[CellGroupData[{
 
@@ -420,26 +420,18 @@ Cell[BoxData[
   ImageSizeCache->{105., {20., 26.}}]], "PrintTemporary",
  CellLabel->
   "During evaluation of \
-In[208]:=",ExpressionUUID->"cbfce03c-e223-4a25-86dc-4350d3e123cd"],
+In[209]:=",ExpressionUUID->"4b7b9681-c8bd-4417-be23-b1118e61e49b"],
 
 Cell[BoxData[
  DynamicBox[ToBoxes[
    Internal`LoadingPanel[
-    If[
-     AllTrue[{BTools`Web`Private`copyfile, BTools`Web`Private`newfile}, 
-      StringQ], 
-     TemplateApply[
-     "Copying `` to ``", {
-      BTools`Web`Private`copyfile, BTools`Web`Private`newfile}], 
-     TemplateApply[
-     "Copying theme ``", 
-      "/Users/Mark/Documents/GitHub/PacletServer/theme/static"]]], 
-   StandardForm],
+    TemplateApply["Extracting data from ``", BTools`Web`Private`extractfile]],
+    StandardForm],
   Evaluator->"Local",
-  ImageSizeCache->{375., {20., 26.}}]], "PrintTemporary",
+  ImageSizeCache->{544., {20., 26.}}]], "PrintTemporary",
  CellLabel->
   "During evaluation of \
-In[208]:=",ExpressionUUID->"5f70bf82-668c-424f-8694-3d3276abe19e"]
+In[209]:=",ExpressionUUID->"dc684c5b-dd9e-43b7-9c4f-c8aea51594dd"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
