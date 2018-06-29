@@ -4,14 +4,14 @@ Categories: Chemistry
 Creator: b3m2a1@gmail.com
 Description: A collection of packages for object oriented chemistry. The primary packages implement an object and data framework. Support is included for basic spectroscopy and a few different external programs. A moderately sophisticated discrete variable representation framework is included as well.
 DisplayName: ChemTools
-Extensions: <|Kernel -> <|Root -> ., Context -> {ChemTools`}|>, FrontEnd -> <||>, Formats -> <||>, Resource -> <|Root -> Resources, Resources -> {Datasets, Extensions, PaletteGenerators, Templates}, SystemID -> *|>, PacletServer -> <|Tags -> {chemistry}, Categories -> {Chemistry}, Description -> A collection of packages for object oriented chemistry. The primary packages implement an object and data framework. Support is included for basic spectroscopy and a few different external programs. A moderately sophisticated discrete variable representation framework is included as well.|>|>
-LastModified: 2018-06-04 17:42:43
-Modified: 2018-06-29 13:10:31
+Extensions: <|Kernel -> <|Root -> ., Context -> {ChemTools`}|>, FrontEnd -> <||>, Formats -> <||>, Resource -> <|Root -> Resources, Resources -> {Datasets, Extensions, Icons, PaletteGenerators, Templates}, SystemID -> *|>, PacletServer -> <|Tags -> {chemistry}, Categories -> {Chemistry}, Description -> A collection of packages for object oriented chemistry. The primary packages implement an object and data framework. Support is included for basic spectroscopy and a few different external programs. A moderately sophisticated discrete variable representation framework is included as well.|>|>
+LastModified: 2018-06-29 13:35:48
+Modified: 2018-06-29 13:36:00
 Name: ChemTools
 Slug: chemtools
 Tags: chemistry
 Thumbnail: PacletIcon.png
-Version: 1.2.4
+Version: 1.2.5
 
 <a id="chemtools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 
@@ -57,7 +57,7 @@ ChemTools
 
 ### Version
 
-1.2.4
+1.2.5
 
 ### Creator
 
@@ -95,6 +95,6 @@ This package provides no extra information
 
 * Root: Resources
 
-* Resources: Datasets, Extensions, PaletteGenerators, Templates
+* Resources: Datasets, Extensions, Icons, PaletteGenerators, Templates
 
 * SystemID: *

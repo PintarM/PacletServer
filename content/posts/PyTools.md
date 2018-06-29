@@ -1,19 +1,23 @@
-Title: Deus
-Authors: Sasaki Saki
+Title: PyTools
+Authors: b3m2a1
 Categories: misc
-Creator: Sasaki Saki <galaster@foxmail.com>
-DisplayName: Deus
-Extensions: <|Kernel -> <|Root -> ., Context -> {Deus`}|>, Documentation -> <|Language -> English, MainPage -> Guides/Deus|>|>
-LastModified: 2018-06-29 13:27:44
-Modified: 2018-06-29 13:36:02
-Name: Deus
-Slug: deus
-Tags: 
-Version: 1.0.2
+Creator: b3m2a1@gmail.com
+Description: A process-based link between Mathematica and python.   Includes tools based off of this link
+DisplayName: PyTools
+Extensions: <|Kernel -> <|Root -> ., Context -> {PyTools`}, Root -> ., Context -> {PyTools`}|>, Resource -> <|Root -> Resources, Resources -> {MLib}, SystemID -> *|>, FrontEnd -> <||>|>
+LastModified: 2018-06-29 13:35:47
+Modified: 2018-06-29 13:36:08
+Name: PyTools
+Slug: pytools
+Tags: mathematica,python
+Version: 1.0.10
 
-<a id="deus" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+<a id="pytools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 
-# Deus
+# PyTools
+
+A process-based link between Mathematica and python.
+  Includes tools based off of this link
 
 ---
 
@@ -26,7 +30,7 @@ Version: 1.0.2
 To install this paclet, run:
 
     PacletInstall[
-      "Deus",
+      "PyTools",
       "Site"->
         "http://raw.githubusercontent.com/paclets/PacletServer/master"
       ]
@@ -47,15 +51,15 @@ Depending on what the current value of  ```$ContextPath```  is you may also need
 
 ### Name
 
-Deus
+PyTools
 
 ### Version
 
-1.0.2
+1.0.10
 
 ### Creator
 
-[Sasaki Saki](mailto:galaster@foxmail.com)
+[b3m2a1@gmail.com](mailto:b3m2a1@gmail.com)
 
 ---
 
@@ -75,10 +79,20 @@ This package provides no extra information
 
 * Root: .
 
-* Context: Deus`
+* Context: PyTools`
 
-### Documentation
+* Root: .
 
-* Language: English
+* Context: PyTools`
 
-* MainPage: Guides/Deus
+### Resource
+
+* Root: Resources
+
+* Resources: MLib
+
+* SystemID: *
+
+### FrontEnd
+
+* This extension has no extra parameters
