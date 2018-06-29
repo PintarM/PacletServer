@@ -393,6 +393,8 @@ Cell[CellGroupData[{
 Cell["Build and Push Index", \
 "Subsubsection",ExpressionUUID->"7e936c65-cf64-48b4-941e-74a351e5616d"],
 
+Cell[CellGroupData[{
+
 Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "\[IndentingNewLine]", 
@@ -406,7 +408,40 @@ Cell[BoxData[
     "\[IndentingNewLine]", 
     RowBox[{"\"\<GenerateIndex\>\"", "\[Rule]", "True"}]}], 
    "\[IndentingNewLine]", "]"}], ";"}]], "Input",
- CellLabel->"In[206]:=",ExpressionUUID->"6eb142e0-8408-4940-8857-c723bb3e23a6"]
+ CellLabel->
+  "In[208]:=",ExpressionUUID->"6eb142e0-8408-4940-8857-c723bb3e23a6"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ DynamicBox[ToBoxes[
+   Internal`LoadingPanel["Building pages..."], StandardForm],
+  Evaluator->"Local",
+  ImageSizeCache->{105., {20., 26.}}]], "PrintTemporary",
+ CellLabel->
+  "During evaluation of \
+In[208]:=",ExpressionUUID->"cbfce03c-e223-4a25-86dc-4350d3e123cd"],
+
+Cell[BoxData[
+ DynamicBox[ToBoxes[
+   Internal`LoadingPanel[
+    If[
+     AllTrue[{BTools`Web`Private`copyfile, BTools`Web`Private`newfile}, 
+      StringQ], 
+     TemplateApply[
+     "Copying `` to ``", {
+      BTools`Web`Private`copyfile, BTools`Web`Private`newfile}], 
+     TemplateApply[
+     "Copying theme ``", 
+      "/Users/Mark/Documents/GitHub/PacletServer/theme/static"]]], 
+   StandardForm],
+  Evaluator->"Local",
+  ImageSizeCache->{375., {20., 26.}}]], "PrintTemporary",
+ CellLabel->
+  "During evaluation of \
+In[208]:=",ExpressionUUID->"5f70bf82-668c-424f-8694-3d3276abe19e"]
+}, Open  ]]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]

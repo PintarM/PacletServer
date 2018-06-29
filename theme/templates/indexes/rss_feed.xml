@@ -8,7 +8,7 @@ This generates the rss_feed for the page
   <channel>
     <title>Paclet Server</title>
     <link><wolfram:slot id="SiteURL"/></link>
-    <atom:link href='<wolfram:slot id="SiteURL"/>index/rss_feed.xml' rel="self" type="application/rss+xml" />
+    <atom:link href="<wolfram:slot id=\"SiteURL\"/>index/rss_feed.xml" rel="self" type="application/rss+xml" />
     <image>
       <url><wolfram:slot id="SiteURL"/>/favicon-32x32.png</url>
       <title>Paclet Server</title>
