@@ -393,8 +393,6 @@ Cell[CellGroupData[{
 Cell["Build and Push Index", \
 "Subsubsection",ExpressionUUID->"7e936c65-cf64-48b4-941e-74a351e5616d"],
 
-Cell[CellGroupData[{
-
 Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "\[IndentingNewLine]", 
@@ -408,32 +406,7 @@ Cell[BoxData[
     "\[IndentingNewLine]", 
     RowBox[{"\"\<GenerateIndex\>\"", "\[Rule]", "True"}]}], 
    "\[IndentingNewLine]", "]"}], ";"}]], "Input",
- CellLabel->
-  "In[205]:=",ExpressionUUID->"6eb142e0-8408-4940-8857-c723bb3e23a6"],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- DynamicBox[ToBoxes[
-   Internal`LoadingPanel["Building pages..."], StandardForm],
-  Evaluator->"Local",
-  ImageSizeCache->{105., {20., 26.}}]], "PrintTemporary",
- CellLabel->
-  "During evaluation of \
-In[205]:=",ExpressionUUID->"90f0b554-1705-4c5d-a746-79cade438204"],
-
-Cell[BoxData[
- DynamicBox[ToBoxes[
-   Internal`LoadingPanel[
-    TemplateApply["Extracting data from ``", BTools`Web`Private`extractfile]],
-    StandardForm],
-  Evaluator->"Local",
-  ImageSizeCache->{480., {20., 26.}}]], "PrintTemporary",
- CellLabel->
-  "During evaluation of \
-In[205]:=",ExpressionUUID->"1e56b510-05cd-4af6-85da-d4cbfa4b864d"]
-}, Open  ]]
-}, Open  ]]
+ CellLabel->"In[205]:=",ExpressionUUID->"6eb142e0-8408-4940-8857-c723bb3e23a6"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
