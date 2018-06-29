@@ -6,7 +6,7 @@ Description: Utilities for importing FEM meshes from other software.
 DisplayName: ImportMesh
 Extensions: <|Kernel -> <|Root -> ., Context -> {ImportMesh`}|>, PacletServer -> <|Tags -> {finite-elements, mesh, import}, Categories -> {FEM}|>|>
 LastModified: 2018-06-04 17:59:32
-Modified: 2018-06-29 13:36:05
+Modified: 2018-06-29 13:50:25
 Name: ImportMesh
 Publisher: C3M d.o.o.
 Slug: importmesh

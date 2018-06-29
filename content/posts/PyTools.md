@@ -6,7 +6,7 @@ Description: A process-based link between Mathematica and python.   Includes too
 DisplayName: PyTools
 Extensions: <|Kernel -> <|Root -> ., Context -> {PyTools`}, Root -> ., Context -> {PyTools`}|>, Resource -> <|Root -> Resources, Resources -> {MLib}, SystemID -> *|>, FrontEnd -> <||>|>
 LastModified: 2018-06-29 13:35:47
-Modified: 2018-06-29 13:36:08
+Modified: 2018-06-29 13:50:28
 Name: PyTools
 Slug: pytools
 Tags: mathematica,python
