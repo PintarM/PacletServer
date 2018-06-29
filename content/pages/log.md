@@ -11,6 +11,10 @@
 * Author: b3m2a1 <b3m2a1@gmail.com>
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
+*** Friday 29 June 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+>Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
+
 *** Tuesday 26 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
