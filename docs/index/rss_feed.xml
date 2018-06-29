@@ -15,6 +15,7 @@
     <description>
         BTools
     </description>
+    <guid>https://paclets.github.io/PacletServer/btools.html</guid>
   </item>
   <item>
     <title>ChemTools</title>
@@ -22,6 +23,7 @@
     <description>
         ChemTools
     </description>
+    <guid>https://paclets.github.io/PacletServer/chemtools.html</guid>
   </item>
   <item>
     <title>CompoundMatrixMethod</title>
@@ -29,6 +31,7 @@
     <description>
         CompoundMatrixMethod
     </description>
+    <guid>https://paclets.github.io/PacletServer/compoundmatrixmethod.html</guid>
   </item>
   <item>
     <title>Deus</title>
@@ -36,6 +39,7 @@
     <description>
         Deus
     </description>
+    <guid>https://paclets.github.io/PacletServer/deus.html</guid>
   </item>
   <item>
     <title>IGraphM</title>
@@ -43,6 +47,7 @@
     <description>
         IGraphM
     </description>
+    <guid>https://paclets.github.io/PacletServer/igraphm.html</guid>
   </item>
   <item>
     <title>ImportMesh</title>
@@ -50,6 +55,7 @@
     <description>
         ImportMesh
     </description>
+    <guid>https://paclets.github.io/PacletServer/importmesh.html</guid>
   </item>
   <item>
     <title>MaTeX</title>
@@ -57,6 +63,7 @@
     <description>
         MaTeX
     </description>
+    <guid>https://paclets.github.io/PacletServer/matex.html</guid>
   </item>
   <item>
     <title>PublicPacletServer</title>
@@ -64,6 +71,7 @@
     <description>
         PublicPacletServer
     </description>
+    <guid>https://paclets.github.io/PacletServer/publicpacletserver.html</guid>
   </item>
   <item>
     <title>PyTools</title>
@@ -71,6 +79,7 @@
     <description>
         PyTools
     </description>
+    <guid>https://paclets.github.io/PacletServer/pytools.html</guid>
   </item>
   <item>
     <title>Rubi</title>
@@ -78,6 +87,7 @@
     <description>
         Rubi
     </description>
+    <guid>https://paclets.github.io/PacletServer/rubi.html</guid>
   </item>
   <item>
     <title>ServiceConnection_NASA</title>
@@ -85,6 +95,7 @@
     <description>
         NASA (ServiceConnection)
     </description>
+    <guid>https://paclets.github.io/PacletServer/serviceconnectionnasa.html</guid>
   </item>
   <item>
     <title>ServiceConnection_StackExchange</title>
@@ -92,6 +103,7 @@
     <description>
         StackExchange (ServiceConnection)
     </description>
+    <guid>https://paclets.github.io/PacletServer/serviceconnectionstackexchange.html</guid>
   </item>
   <item>
     <title>ServiceConnection_WolframCommunity</title>
@@ -99,6 +111,7 @@
     <description>
         WolframCommunity (ServiceConnection)
     </description>
+    <guid>https://paclets.github.io/PacletServer/serviceconnectionwolframcommunity.html</guid>
   </item>
   <item>
     <title>SymbolObjects</title>
@@ -106,6 +119,7 @@
     <description>
         SymbolObjects
     </description>
+    <guid>https://paclets.github.io/PacletServer/symbolobjects.html</guid>
   </item>
   </channel>
 </rss>
