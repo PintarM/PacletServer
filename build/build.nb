@@ -252,7 +252,8 @@ Cell[BoxData[
   RowBox[{"PublicPacletServerRebuild", "[", 
    RowBox[{"{", 
     RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Push\>\""}], "}"}], "]"}], 
-  ";"}]], "Input",ExpressionUUID->"f79e3563-6c15-4efb-9143-a5e5eadbb480"]
+  ";"}]], "Input",
+ CellLabel->"In[180]:=",ExpressionUUID->"f79e3563-6c15-4efb-9143-a5e5eadbb480"]
 }, Open  ]]
 }, Open  ]],
 
@@ -291,30 +292,6 @@ Cell[BoxData[
       RowBox[{"\"\<SiteURL\>\"", "\[Rule]", "Automatic"}], "}"}]}]}], 
    "\[IndentingNewLine]", "]"}], 
   ";"}]], "Input",ExpressionUUID->"57c891a9-0d23-417a-8011-40c6a0a2e8a3"],
-
-Cell[BoxData[
- RowBox[{
-  RowBox[{"PublicPacletServerRebuild", "[", 
-   RowBox[{
-    RowBox[{"{", 
-     RowBox[{"(*", 
-      RowBox[{"\"\<Add\>\"", ","}], " ", "*)"}], 
-     RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Test\>\""}], "}"}], ",", 
-    "\[IndentingNewLine]", 
-    RowBox[{"\"\<ConfigurationOptions\>\"", "\[Rule]", 
-     RowBox[{"{", 
-      RowBox[{"\"\<SiteURL\>\"", "\[Rule]", "Automatic"}], "}"}]}], ",", 
-    "\[IndentingNewLine]", 
-    RowBox[{"\"\<RegenerateContent\>\"", "\[Rule]", "False"}], ",", 
-    "\[IndentingNewLine]", 
-    RowBox[{"\"\<GenerateAggregations\>\"", "\[Rule]", "False"}], ",", 
-    "\[IndentingNewLine]", 
-    RowBox[{"\"\<GenerateContent\>\"", "\[Rule]", "False"}], ",", 
-    "\[IndentingNewLine]", 
-    RowBox[{"\"\<GenerateIndex\>\"", "\[Rule]", "True"}]}], 
-   "\[IndentingNewLine]", "]"}], ";"}]], "Input",
- CellLabel->
-  "In[178]:=",ExpressionUUID->"b7899154-d715-4b5c-84c4-1cf4debc939d"],
 
 Cell[CellGroupData[{
 
@@ -364,37 +341,23 @@ Cell[CellGroupData[{
 Cell["Log, Build, Test", \
 "Subsubsection",ExpressionUUID->"b5763edc-d6cb-4634-b476-f7a05deb38b4"],
 
-Cell[CellGroupData[{
-
 Cell[BoxData[
- RowBox[{"PublicPacletServerRebuild", "[", 
-  RowBox[{
-   RowBox[{"{", 
-    RowBox[{
-    "\"\<Log\>\"", ",", " ", "\"\<Build\>\"", ",", " ", "\"\<Test\>\""}], 
-    "}"}], ",", "\[IndentingNewLine]", 
-   RowBox[{"\"\<RegenerateContent\>\"", "\[Rule]", "False"}], ",", 
-   "\[IndentingNewLine]", 
-   RowBox[{"\"\<GenerateAggregations\>\"", "\[Rule]", "False"}], ",", 
-   "\[IndentingNewLine]", 
-   RowBox[{"\"\<GenerateContent\>\"", "\[Rule]", "True"}], ",", 
-   "\[IndentingNewLine]", 
-   RowBox[{"\"\<GenerateIndex\>\"", "\[Rule]", "False"}]}], 
-  "\[IndentingNewLine]", "]"}]], "Input",
- CellLabel->"In[14]:=",ExpressionUUID->"c3b6d18e-90be-4a9c-9637-1b7fbef0131a"],
-
-Cell[BoxData[
- RowBox[{"\[LeftAssociation]", 
-  RowBox[{
-   RowBox[{"\<\"Log\"\>", 
-    "\[Rule]", \
-"\<\"/Users/Mark/Documents/GitHub/PacletServer/logs/log.wl\"\>"}], ",", 
-   RowBox[{"\<\"Build\"\>", 
-    "\[Rule]", "\<\"/Users/Mark/Documents/GitHub/PacletServer/docs\"\>"}]}], 
-  "\[RightAssociation]"}]], "Output",
- CellLabel->
-  "Out[14]=",ExpressionUUID->"8bf0a844-4c3e-4af6-b461-476b5ff400ae"]
-}, Open  ]]
+ RowBox[{
+  RowBox[{"PublicPacletServerRebuild", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+     "\"\<Log\>\"", ",", " ", "\"\<Build\>\"", ",", " ", "\"\<Test\>\""}], 
+     "}"}], ",", "\[IndentingNewLine]", 
+    RowBox[{"\"\<RegenerateContent\>\"", "\[Rule]", "False"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateAggregations\>\"", "\[Rule]", "False"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateContent\>\"", "\[Rule]", "True"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateIndex\>\"", "\[Rule]", "True"}]}], 
+   "\[IndentingNewLine]", "]"}], 
+  ";"}]], "Input",ExpressionUUID->"c3b6d18e-90be-4a9c-9637-1b7fbef0131a"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -423,6 +386,27 @@ Cell[BoxData[
       "\[IndentingNewLine]", "}"}]}]}], "\[IndentingNewLine]", "]"}], 
   ";"}]], "Input",
  CellLabel->"In[367]:=",ExpressionUUID->"f50bb886-c400-47ed-9348-321fef82da3a"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Build and Push Index", \
+"Subsubsection",ExpressionUUID->"7e936c65-cf64-48b4-941e-74a351e5616d"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"PublicPacletServerRebuild", "[", "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Push\>\""}], "}"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<RegenerateContent\>\"", "\[Rule]", "False"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateContent\>\"", "\[Rule]", "False"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateIndex\>\"", "\[Rule]", "True"}]}], 
+   "\[IndentingNewLine]", "]"}], 
+  ";"}]], "Input",ExpressionUUID->"6eb142e0-8408-4940-8857-c723bb3e23a6"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
