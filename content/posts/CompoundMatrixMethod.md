@@ -7,7 +7,7 @@ DisplayName: CompoundMatrixMethod
 Extensions: <|Kernel -> <|Root -> ., Context -> CompoundMatrixMethod`|>|>
 LastModified: 2018-06-04 17:59:32
 MathematicaVersion: 9+
-Modified: 2018-06-29 13:50:22
+Modified: 2018-06-29 14:19:30
 Name: CompoundMatrixMethod
 Slug: compoundmatrixmethod
 Tags: 

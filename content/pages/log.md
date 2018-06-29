@@ -1,41 +1,11 @@
 # Paclet Server Log
 
-<a id="ChemTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## ChemTools
-
-*** Friday 29 June 2018 ***
-* Author: b3m2a1 <b3m2a1@gmail.com>
->Downloaded paclet ChemTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
-
-*** Wednesday 30 May 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Added paclet ChemTools-1.2.3.paclet to queue
-
-*** Monday 23 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Push update
-
-*** Friday 20 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Switched up theme
-
-*** Wednesday 18 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Initial Build
-
-
----
-<a id="PyTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## PyTools
-
-*** Friday 29 June 2018 ***
-* Author: b3m2a1 <b3m2a1@gmail.com>
->Downloaded paclet PyTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
-
-
----
 <a id="BTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 ## BTools
+
+*** Friday 29 June 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+>Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Friday 29 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
@@ -138,6 +108,40 @@
 *** Wednesday 18 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
 >Initial Build
+
+
+---
+<a id="ChemTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## ChemTools
+
+*** Friday 29 June 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+>Downloaded paclet ChemTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
+
+*** Wednesday 30 May 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Added paclet ChemTools-1.2.3.paclet to queue
+
+*** Monday 23 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Push update
+
+*** Friday 20 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Switched up theme
+
+*** Wednesday 18 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+>Initial Build
+
+
+---
+<a id="PyTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## PyTools
+
+*** Friday 29 June 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+>Downloaded paclet PyTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 
 ---
