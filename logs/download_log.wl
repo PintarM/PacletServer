@@ -68,5 +68,10 @@
 		"Date" -> "Fri 29 Jun 2018 14:19:18",
 		"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
 		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
+	|>,
+	"BTools" -> <|
+		"Date" -> "Fri 29 Jun 2018 15:44:53",
+		"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
 	|>
 }
