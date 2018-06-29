@@ -8,7 +8,7 @@ Extensions: <|Kernel -> <|Root -> ., Context -> Rubi`|>, PacletServer -> <|Tags 
 LastModified: 2018-06-26 07:43:28
 License: MIT
 MathematicaVersion: 11+
-Modified: 2018-06-26 07:45:33
+Modified: 2018-06-29 13:10:39
 Name: Rubi
 Slug: rubi
 Tags: integration,rule,antiderivative

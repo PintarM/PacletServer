@@ -22,7 +22,7 @@ Cell[BoxData[
       RowBox[{"NotebookDirectory", "[", "]"}], ",", " ", "\"\<src\>\"", ",", 
       " ", "\"\<BuildScript.m\>\""}], "}"}]}], "]"}], ";"}]], "Code",
  CellLabel->
-  "In[389]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
+  "In[150]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
 
 Cell[CellGroupData[{
 
@@ -54,8 +54,8 @@ f006baabc747"],
 
 Cell[BoxData[
  RowBox[{
-  RowBox[{"PublicPacletServerRebuild", "[", "]"}], ";"}]], "Input",
- CellLabel->"In[52]:=",ExpressionUUID->"f6ff1e93-5da7-4e98-b4ee-483684eef167"],
+  RowBox[{"PublicPacletServerRebuild", "[", "]"}], 
+  ";"}]], "Input",ExpressionUUID->"f6ff1e93-5da7-4e98-b4ee-483684eef167"],
 
 Cell["It just rebuilds everything.", "Text",
  CellChangeTimes->{{3.7334296849200993`*^9, 
@@ -204,7 +204,7 @@ Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "\"\<Push\>\"", "]"}], 
   ";"}]], "Input",
- CellLabel->"In[739]:=",ExpressionUUID->"39508e2c-da5d-46c7-be14-6be2a4d9daee"]
+ CellLabel->"In[402]:=",ExpressionUUID->"39508e2c-da5d-46c7-be14-6be2a4d9daee"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -220,7 +220,7 @@ Cell[BoxData[
    RowBox[{"{", "\[IndentingNewLine]", 
     RowBox[{
     "\"\<UpdateQueue\>\"", ",", "\[IndentingNewLine]", "\"\<Add\>\"", ",", 
-     " ", "\[IndentingNewLine]", "\"\<Log\>\"", ",", "\[IndentingNewLine]", 
+     "\[IndentingNewLine]", "\"\<Log\>\"", ",", "\[IndentingNewLine]", 
      "\"\<Build\>\"", ",", " ", "\[IndentingNewLine]", "\"\<Test\>\""}], 
     "\[IndentingNewLine]", "}"}], "\[IndentingNewLine]", "]"}], 
   ";"}]], "Input",ExpressionUUID->"ebada0f3-bcbb-47e4-b5db-9243f9ee5a04"]
@@ -232,11 +232,13 @@ Cell["Just Build and Test", \
 "Subsubsection",ExpressionUUID->"6f39f6a9-ee08-4cde-a414-6464bdaab5b0"],
 
 Cell[BoxData[
- RowBox[{"PublicPacletServerRebuild", "[", 
-  RowBox[{"{", 
-   RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Test\>\""}], "}"}], "]"}]], "Input",
- EmphasizeSyntaxErrors->True,
- CellLabel->"In[401]:=",ExpressionUUID->"550d77ff-f86f-481e-9ebc-acc59a2d0384"]
+ RowBox[{
+  RowBox[{"PublicPacletServerRebuild", "[", 
+   RowBox[{"{", 
+    RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Test\>\""}], "}"}], "]"}], 
+  ";"}]], "Input",
+ EmphasizeSyntaxErrors->
+  True,ExpressionUUID->"550d77ff-f86f-481e-9ebc-acc59a2d0384"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -245,11 +247,11 @@ Cell["Just Build and Push", \
 "Subsubsection",ExpressionUUID->"a8e1b643-ab5d-4d9c-87af-70504ac6fcb0"],
 
 Cell[BoxData[
- RowBox[{"PublicPacletServerRebuild", "[", 
-  RowBox[{"{", 
-   RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Push\>\""}], "}"}], "]"}]], "Input",
- CellLabel->
-  "In[16]:=",ExpressionUUID->"f79e3563-6c15-4efb-9143-a5e5eadbb480"]
+ RowBox[{
+  RowBox[{"PublicPacletServerRebuild", "[", 
+   RowBox[{"{", 
+    RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Push\>\""}], "}"}], "]"}], 
+  ";"}]], "Input",ExpressionUUID->"f79e3563-6c15-4efb-9143-a5e5eadbb480"]
 }, Open  ]]
 }, Open  ]],
 
@@ -288,6 +290,30 @@ Cell[BoxData[
       RowBox[{"\"\<SiteURL\>\"", "\[Rule]", "Automatic"}], "}"}]}]}], 
    "\[IndentingNewLine]", "]"}], 
   ";"}]], "Input",ExpressionUUID->"57c891a9-0d23-417a-8011-40c6a0a2e8a3"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"PublicPacletServerRebuild", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"(*", 
+      RowBox[{"\"\<Add\>\"", ","}], " ", "*)"}], 
+     RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Test\>\""}], "}"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<ConfigurationOptions\>\"", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"\"\<SiteURL\>\"", "\[Rule]", "Automatic"}], "}"}]}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<RegenerateContent\>\"", "\[Rule]", "False"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateAggregations\>\"", "\[Rule]", "False"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateContent\>\"", "\[Rule]", "False"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateIndex\>\"", "\[Rule]", "True"}]}], 
+   "\[IndentingNewLine]", "]"}], ";"}]], "Input",
+ CellLabel->
+  "In[178]:=",ExpressionUUID->"b7899154-d715-4b5c-84c4-1cf4debc939d"],
 
 Cell[CellGroupData[{
 
@@ -401,7 +427,7 @@ Cell[BoxData[
 }, Open  ]]
 },
 WindowSize->{808, 755},
-WindowMargins->{{232, Automatic}, {0, Automatic}},
+WindowMargins->{{37, Automatic}, {Automatic, 0}},
 PrivateNotebookOptions->{"FileContents"->{"NotebookData"},
 "FileOutlineCache"->False},
 TrackCellChangeTimes->False,
