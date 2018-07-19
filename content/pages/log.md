@@ -7,6 +7,10 @@
 * Author: b3m2a1 <b3m2a1@gmail.com>
 >Downloaded paclet ChemTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
+*** Thursday 19 July 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+>Downloaded paclet ChemTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
+
 *** Friday 29 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
 >Downloaded paclet ChemTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
@@ -31,6 +35,10 @@
 ---
 <a id="BTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 ## BTools
+
+*** Thursday 19 July 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+>Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Thursday 19 July 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>

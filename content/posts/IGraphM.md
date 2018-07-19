@@ -7,14 +7,14 @@ DisplayName: IGraphM
 Extensions: <|Kernel -> <|Root -> ., Context -> IGraphM`|>, LibraryLink -> <||>, Documentation -> <|MainPage -> Tutorials/IGDocumentation|>|>
 LastModified: 2018-06-04 17:59:32
 MathematicaVersion: 10.0+
-Modified: 2018-06-04 17:59:32
+Modified: 2018-06-26 07:35:10
 Name: IGraphM
 Slug: igraphm
 SystemID: MacOSX-x86-64,Windows-x86-64,Linux-x86-64
 Tags: 
 Thumbnail: Logo.png
 URL: http://szhorvat.net/mathematica/IGraphM
-Version: 0.3.99.1
+Version: 0.3.100
 
 <a id="igraphm" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 
@@ -60,7 +60,7 @@ IGraphM
 
 ### Version
 
-0.3.99.1
+0.3.100
 
 ### Creator
 
