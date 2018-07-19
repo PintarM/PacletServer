@@ -4,16 +4,16 @@ Categories: Development
 Creator: b3m2a1@gmail.com
 Description: A general purpose package that implements useful functionality for application development. Features include: distribution tools, documentation generation, front-end manipulation, and application editing 
 DisplayName: BTools
-Extensions: <|Kernel -> <|Root -> ., Context -> {BTools`}|>, Resource -> <|Root -> Resources, Resources -> {Icons, PaletteGenerators, Templates, Themes}, SystemID -> *|>, FrontEnd -> <|Prepend -> True|>, PacletServer -> <|Tags -> {documentation, front-end, paclets, web}, Categories -> {Development}, Description -> A general purpose package that implements useful functionality for application development. Features include: distribution tools, documentation generation, front-end manipulation, and application editing , License -> MIT|>|>
+Extensions: <|Kernel -> <|Root -> ., Context -> {BTools`}|>, Resource -> <|Root -> Resources, Resources -> {Icons, PaletteGenerators, Templates, Themes, {PacletIcon, Icons/PacletIcon.png}, {PacletSiteIcon, Icons/PacletSiteIcon.png}, {AppManagerPaletteGenerator, PaletteGenerators/AppManagerPaletteGenerator.nb}, {CuratedDataHelperGenerator, PaletteGenerators/CuratedDataHelperGenerator.nb}, {DocumentationGenerator, PaletteGenerators/DocumentationGenerator.nb}, {EncodedCacheManagerGenerator, PaletteGenerators/EncodedCacheManagerGenerator.nb}, {HTMLHelperGenerator, PaletteGenerators/HTMLHelperGenerator.nb}, {PacletServerManagerGenerator, PaletteGenerators/PacletServerManagerGenerator.nb}, {PaletteTemplate, PaletteGenerators/PaletteTemplate.nb}, {PelicanHelperGenerator, PaletteGenerators/PelicanHelperGenerator.nb}, {ServiceConnectionHelperGenerator, PaletteGenerators/ServiceConnectionHelperGenerator.nb}, {SiteBuilderGenerator, PaletteGenerators/SiteBuilderGenerator.nb}, {ContextLoader, Templates/ContextLoader.wl}, {CuratedDataTemplate, Templates/CuratedDataTemplate.nb}, {Autocomplete, Templates/Initialization/Autocomplete.wl}, {Constants, Templates/Initialization/Constants.wl}, {Dependencies, Templates/Initialization/Dependencies.wl}, {Exceptions, Templates/Initialization/Exceptions.wl}, {FrontEnd, Templates/Initialization/FrontEnd.wl}, {init, Templates/Initialization/init.wl}, {Loading, Templates/Initialization/Loading.wl}, {Paths, Templates/Initialization/Paths.wl}, {README, Templates/README.nb}, {ServiceConnectionTemplate, Templates/ServiceConnectionTemplate.nb}, {Frameworks, Templates/Frameworks}, {CuratedData, Templates/Frameworks/CuratedData}, {$ServiceConnection, Templates/Frameworks/$ServiceConnection}, {Initialization, Templates/Initialization}, {SiteBuilder, Templates/SiteBuilder}, {DocumentationSite, Templates/SiteBuilder/DocumentationSite}, {PacletServer, Templates/SiteBuilder/PacletServer}, {TutorialSite, Templates/SiteBuilder/TutorialSite}, {WebSite, Templates/SiteBuilder/WebSite}, {template_lib, Themes/template_lib}, {include, Themes/template_lib/include}, {templates, Themes/template_lib/templates}, {tipuesearch, Themes/template_lib/tipuesearch}}|>, FrontEnd -> <|Prepend -> True|>, PacletServer -> <|Tags -> {documentation, front-end, paclets, web}, Categories -> {Development}, Description -> A general purpose package that implements useful functionality for application development. Features include: distribution tools, documentation generation, front-end manipulation, and application editing , License -> MIT|>|>
 LastModified: 2018-06-29 14:19:18
 License: MIT
-Modified: 2018-06-29 15:44:53
+Modified: 2018-07-19 11:53:01
 Name: BTools
 Slug: btools
 Tags: documentation,front-end,paclets,web
 Thumbnail: PacletIcon.png
 URL: https://github.com/b3m2a1/mathematica-BTools
-Version: 2.1.23
+Version: 2.1.26
 
 <a id="btools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 
@@ -39,13 +39,13 @@ To install this paclet, run:
         "http://raw.githubusercontent.com/paclets/PacletServer/master"
       ]
 
-Depending on what the current value of  ```$ContextPath```  is you may also need to first run
+Depending on what the current value of  ```$ContextPath``` is you may also need to first run
 
     Needs["PacletManager`"]
 
-* To update it, replace  ```PacletInstall```  with  ```PacletUpdate``` . 
+* To update it, replace  ```PacletInstall``` with  ```PacletUpdate``` . 
 
-* To uninstall replace  ```PacletInstall```  with  ```PacletUninstall```  and remove the  ```"Site"```  parameter.
+* To uninstall replace  ```PacletInstall``` with  ```PacletUninstall``` and remove the  ```"Site"``` parameter.
 
 ---
 
@@ -59,7 +59,7 @@ BTools
 
 ### Version
 
-2.1.23
+2.1.26
 
 ### Creator
 
@@ -97,9 +97,89 @@ This package provides no extra information
 
 * Root: Resources
 
-* Resources: Icons, PaletteGenerators, Templates, Themes
+* Resources
 
-* SystemID: *
+  * Icons
+
+  * PaletteGenerators
+
+  * Templates
+
+  * Themes
+
+  * {PacletIcon, Icons/PacletIcon.png}
+
+  * {PacletSiteIcon, Icons/PacletSiteIcon.png}
+
+  * {AppManagerPaletteGenerator, PaletteGenerators/AppManagerPaletteGenerator.nb}
+
+  * {CuratedDataHelperGenerator, PaletteGenerators/CuratedDataHelperGenerator.nb}
+
+  * {DocumentationGenerator, PaletteGenerators/DocumentationGenerator.nb}
+
+  * {EncodedCacheManagerGenerator, PaletteGenerators/EncodedCacheManagerGenerator.nb}
+
+  * {HTMLHelperGenerator, PaletteGenerators/HTMLHelperGenerator.nb}
+
+  * {PacletServerManagerGenerator, PaletteGenerators/PacletServerManagerGenerator.nb}
+
+  * {PaletteTemplate, PaletteGenerators/PaletteTemplate.nb}
+
+  * {PelicanHelperGenerator, PaletteGenerators/PelicanHelperGenerator.nb}
+
+  * {ServiceConnectionHelperGenerator, PaletteGenerators/ServiceConnectionHelperGenerator.nb}
+
+  * {SiteBuilderGenerator, PaletteGenerators/SiteBuilderGenerator.nb}
+
+  * {ContextLoader, Templates/ContextLoader.wl}
+
+  * {CuratedDataTemplate, Templates/CuratedDataTemplate.nb}
+
+  * {Autocomplete, Templates/Initialization/Autocomplete.wl}
+
+  * {Constants, Templates/Initialization/Constants.wl}
+
+  * {Dependencies, Templates/Initialization/Dependencies.wl}
+
+  * {Exceptions, Templates/Initialization/Exceptions.wl}
+
+  * {FrontEnd, Templates/Initialization/FrontEnd.wl}
+
+  * {init, Templates/Initialization/init.wl}
+
+  * {Loading, Templates/Initialization/Loading.wl}
+
+  * {Paths, Templates/Initialization/Paths.wl}
+
+  * {README, Templates/README.nb}
+
+  * {ServiceConnectionTemplate, Templates/ServiceConnectionTemplate.nb}
+
+  * {Frameworks, Templates/Frameworks}
+
+  * {CuratedData, Templates/Frameworks/CuratedData}
+
+  * {$ServiceConnection, Templates/Frameworks/$ServiceConnection}
+
+  * {Initialization, Templates/Initialization}
+
+  * {SiteBuilder, Templates/SiteBuilder}
+
+  * {DocumentationSite, Templates/SiteBuilder/DocumentationSite}
+
+  * {PacletServer, Templates/SiteBuilder/PacletServer}
+
+  * {TutorialSite, Templates/SiteBuilder/TutorialSite}
+
+  * {WebSite, Templates/SiteBuilder/WebSite}
+
+  * {template_lib, Themes/template_lib}
+
+  * {include, Themes/template_lib/include}
+
+  * {templates, Themes/template_lib/templates}
+
+  * {tipuesearch, Themes/template_lib/tipuesearch}
 
 ### FrontEnd
 

@@ -34,13 +34,13 @@ To install this paclet, run:
         "http://raw.githubusercontent.com/paclets/PacletServer/master"
       ]
 
-Depending on what the current value of  ```$ContextPath```  is you may also need to first run
+Depending on what the current value of  ```$ContextPath``` is you may also need to first run
 
     Needs["PacletManager`"]
 
-* To update it, replace  ```PacletInstall```  with  ```PacletUpdate``` . 
+* To update it, replace  ```PacletInstall``` with  ```PacletUpdate``` . 
 
-* To uninstall replace  ```PacletInstall```  with  ```PacletUninstall```  and remove the  ```"Site"```  parameter.
+* To uninstall replace  ```PacletInstall``` with  ```PacletUninstall``` and remove the  ```"Site"``` parameter.
 
 ---
 
