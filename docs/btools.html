@@ -180,14 +180,14 @@
     &quot;http://raw.githubusercontent.com/paclets/PacletServer/master&quot;
   ]</code>
 </pre>
-<p>Depending on what the current value of <code class='language-mathematica'>$ContextPath</code>  is you may also need to first run
+<p>Depending on what the current value of <code class='language-mathematica'>$ContextPath</code> is you may also need to first run
 </p>
 <pre>
  <code class='language-mathematica'>Needs[&quot;PacletManager`&quot;]</code>
 </pre>
 <ul>
- <li>To update it, replace <code class='language-mathematica'>PacletInstall</code>  with <code class='language-mathematica'>PacletUpdate</code> .</li>
- <li>To uninstall replace <code class='language-mathematica'>PacletInstall</code>  with <code class='language-mathematica'>PacletUninstall</code>  and remove the <code class='language-mathematica'>&quot;Site&quot;</code>  parameter.</li>
+ <li>To update it, replace <code class='language-mathematica'>PacletInstall</code> with <code class='language-mathematica'>PacletUpdate</code> .</li>
+ <li>To uninstall replace <code class='language-mathematica'>PacletInstall</code> with <code class='language-mathematica'>PacletUninstall</code> and remove the <code class='language-mathematica'>&quot;Site&quot;</code> parameter.</li>
 </ul>
 <hr />
 <a shape='rect' id='basic-information' style='width:0;height:0;margin:0;padding:0;'>&#8204;</a>
@@ -196,7 +196,7 @@
 <p>BTools
 </p>
 <h3> Version</h3>
-<p>2.1.23
+<p>2.1.26
 </p>
 <h3> Creator</h3>
 <a href='mailto:b3m2a1@gmail.com'>b3m2a1@gmail.com</a>
@@ -221,8 +221,50 @@
 <h3> Resource</h3>
 <ul>
  <li>Root: Resources</li>
- <li>Resources: Icons, PaletteGenerators, Templates, Themes</li>
- <li>SystemID: *</li>
+ <li>Resources</li>
+ <ul>
+  <li>Icons</li>
+  <li>PaletteGenerators</li>
+  <li>Templates</li>
+  <li>Themes</li>
+  <li>{PacletIcon, Icons/PacletIcon.png}</li>
+  <li>{PacletSiteIcon, Icons/PacletSiteIcon.png}</li>
+  <li>{AppManagerPaletteGenerator, PaletteGenerators/AppManagerPaletteGenerator.nb}</li>
+  <li>{CuratedDataHelperGenerator, PaletteGenerators/CuratedDataHelperGenerator.nb}</li>
+  <li>{DocumentationGenerator, PaletteGenerators/DocumentationGenerator.nb}</li>
+  <li>{EncodedCacheManagerGenerator, PaletteGenerators/EncodedCacheManagerGenerator.nb}</li>
+  <li>{HTMLHelperGenerator, PaletteGenerators/HTMLHelperGenerator.nb}</li>
+  <li>{PacletServerManagerGenerator, PaletteGenerators/PacletServerManagerGenerator.nb}</li>
+  <li>{PaletteTemplate, PaletteGenerators/PaletteTemplate.nb}</li>
+  <li>{PelicanHelperGenerator, PaletteGenerators/PelicanHelperGenerator.nb}</li>
+  <li>{ServiceConnectionHelperGenerator, PaletteGenerators/ServiceConnectionHelperGenerator.nb}</li>
+  <li>{SiteBuilderGenerator, PaletteGenerators/SiteBuilderGenerator.nb}</li>
+  <li>{ContextLoader, Templates/ContextLoader.wl}</li>
+  <li>{CuratedDataTemplate, Templates/CuratedDataTemplate.nb}</li>
+  <li>{Autocomplete, Templates/Initialization/Autocomplete.wl}</li>
+  <li>{Constants, Templates/Initialization/Constants.wl}</li>
+  <li>{Dependencies, Templates/Initialization/Dependencies.wl}</li>
+  <li>{Exceptions, Templates/Initialization/Exceptions.wl}</li>
+  <li>{FrontEnd, Templates/Initialization/FrontEnd.wl}</li>
+  <li>{init, Templates/Initialization/init.wl}</li>
+  <li>{Loading, Templates/Initialization/Loading.wl}</li>
+  <li>{Paths, Templates/Initialization/Paths.wl}</li>
+  <li>{README, Templates/README.nb}</li>
+  <li>{ServiceConnectionTemplate, Templates/ServiceConnectionTemplate.nb}</li>
+  <li>{Frameworks, Templates/Frameworks}</li>
+  <li>{CuratedData, Templates/Frameworks/CuratedData}</li>
+  <li>{$ServiceConnection, Templates/Frameworks/$ServiceConnection}</li>
+  <li>{Initialization, Templates/Initialization}</li>
+  <li>{SiteBuilder, Templates/SiteBuilder}</li>
+  <li>{DocumentationSite, Templates/SiteBuilder/DocumentationSite}</li>
+  <li>{PacletServer, Templates/SiteBuilder/PacletServer}</li>
+  <li>{TutorialSite, Templates/SiteBuilder/TutorialSite}</li>
+  <li>{WebSite, Templates/SiteBuilder/WebSite}</li>
+  <li>{template<em>lib, Themes/template</em>lib}</li>
+  <li>{include, Themes/template_lib/include}</li>
+  <li>{templates, Themes/template_lib/templates}</li>
+  <li>{tipuesearch, Themes/template_lib/tipuesearch}</li>
+ </ul>
 </ul>
 <h3> FrontEnd</h3>
 <ul>

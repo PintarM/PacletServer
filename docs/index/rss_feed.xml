@@ -17,7 +17,7 @@
         BTools
     </description>
     <guid>https://paclets.github.io/PacletServer/btools.html</guid>
-    <pubDate>2018-06-29 15:44:53</pubDate>
+    <pubDate>Thu 19 Jul 2018 11:53:01</pubDate>
   </item>
   <item>
     <title>ChemTools</title>
@@ -26,7 +26,7 @@
         ChemTools
     </description>
     <guid>https://paclets.github.io/PacletServer/chemtools.html</guid>
-    <pubDate>2018-06-29 13:35:48</pubDate>
+    <pubDate>Thu 19 Jul 2018 11:53:02</pubDate>
   </item>
   <item>
     <title>CompoundMatrixMethod</title>
@@ -35,7 +35,7 @@
         CompoundMatrixMethod
     </description>
     <guid>https://paclets.github.io/PacletServer/compoundmatrixmethod.html</guid>
-    <pubDate>2018-06-04 17:59:32</pubDate>
+    <pubDate>Mon 4 Jun 2018 17:59:32</pubDate>
   </item>
   <item>
     <title>Deus</title>
@@ -44,7 +44,7 @@
         Deus
     </description>
     <guid>https://paclets.github.io/PacletServer/deus.html</guid>
-    <pubDate>2018-06-29 13:27:44</pubDate>
+    <pubDate>Fri 29 Jun 2018 13:27:44</pubDate>
   </item>
   <item>
     <title>IGraphM</title>
@@ -53,7 +53,7 @@
         IGraphM
     </description>
     <guid>https://paclets.github.io/PacletServer/igraphm.html</guid>
-    <pubDate>2018-06-04 17:59:32</pubDate>
+    <pubDate>Mon 4 Jun 2018 17:59:32</pubDate>
   </item>
   <item>
     <title>ImportMesh</title>
@@ -62,7 +62,7 @@
         ImportMesh
     </description>
     <guid>https://paclets.github.io/PacletServer/importmesh.html</guid>
-    <pubDate>2018-06-04 17:59:32</pubDate>
+    <pubDate>Mon 4 Jun 2018 17:59:32</pubDate>
   </item>
   <item>
     <title>MaTeX</title>
@@ -71,7 +71,7 @@
         MaTeX
     </description>
     <guid>https://paclets.github.io/PacletServer/matex.html</guid>
-    <pubDate>2018-06-18 10:10:54</pubDate>
+    <pubDate>Mon 18 Jun 2018 10:10:54</pubDate>
   </item>
   <item>
     <title>PublicPacletServer</title>
@@ -80,7 +80,7 @@
         PublicPacletServer
     </description>
     <guid>https://paclets.github.io/PacletServer/publicpacletserver.html</guid>
-    <pubDate>2018-06-26 07:38:24</pubDate>
+    <pubDate>Tue 26 Jun 2018 07:38:24</pubDate>
   </item>
   <item>
     <title>PyTools</title>
@@ -89,7 +89,7 @@
         PyTools
     </description>
     <guid>https://paclets.github.io/PacletServer/pytools.html</guid>
-    <pubDate>2018-06-29 13:35:47</pubDate>
+    <pubDate>Fri 29 Jun 2018 13:35:47</pubDate>
   </item>
   <item>
     <title>Rubi</title>
@@ -98,7 +98,7 @@
         Rubi
     </description>
     <guid>https://paclets.github.io/PacletServer/rubi.html</guid>
-    <pubDate>2018-06-26 07:43:28</pubDate>
+    <pubDate>Tue 26 Jun 2018 07:43:28</pubDate>
   </item>
   <item>
     <title>ServiceConnection_NASA</title>
@@ -107,7 +107,7 @@
         NASA (ServiceConnection)
     </description>
     <guid>https://paclets.github.io/PacletServer/serviceconnectionnasa.html</guid>
-    <pubDate>2018-06-04 17:59:32</pubDate>
+    <pubDate>Mon 4 Jun 2018 17:59:32</pubDate>
   </item>
   <item>
     <title>ServiceConnection_StackExchange</title>
@@ -116,7 +116,7 @@
         StackExchange (ServiceConnection)
     </description>
     <guid>https://paclets.github.io/PacletServer/serviceconnectionstackexchange.html</guid>
-    <pubDate>2018-06-04 17:59:32</pubDate>
+    <pubDate>Mon 4 Jun 2018 17:59:32</pubDate>
   </item>
   <item>
     <title>ServiceConnection_WolframCommunity</title>
@@ -125,7 +125,7 @@
         WolframCommunity (ServiceConnection)
     </description>
     <guid>https://paclets.github.io/PacletServer/serviceconnectionwolframcommunity.html</guid>
-    <pubDate>2018-06-04 17:59:32</pubDate>
+    <pubDate>Mon 4 Jun 2018 17:59:32</pubDate>
   </item>
   <item>
     <title>SymbolObjects</title>
@@ -134,7 +134,7 @@
         SymbolObjects
     </description>
     <guid>https://paclets.github.io/PacletServer/symbolobjects.html</guid>
-    <pubDate>2018-06-04 17:52:34</pubDate>
+    <pubDate>Mon 4 Jun 2018 17:52:34</pubDate>
   </item>
   </channel>
 </rss>
