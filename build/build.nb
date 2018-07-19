@@ -21,8 +21,7 @@ Cell[BoxData[
      RowBox[{
       RowBox[{"NotebookDirectory", "[", "]"}], ",", " ", "\"\<src\>\"", ",", 
       " ", "\"\<BuildScript.m\>\""}], "}"}]}], "]"}], ";"}]], "Code",
- CellLabel->
-  "In[122]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
+ CellLabel->"In[15]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
 
 Cell[CellGroupData[{
 
@@ -420,8 +419,6 @@ Cell[CellGroupData[{
 Cell["Build and Push without Aggregation", \
 "Subsubsection",ExpressionUUID->"2246f796-7486-4a24-ac4b-d813b3f78e75"],
 
-Cell[CellGroupData[{
-
 Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", 
@@ -431,10 +428,6 @@ Cell[BoxData[
       RowBox[{"\"\<Add\>\"", ","}], " ", "*)"}], 
      RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Push\>\""}], "}"}], ",", 
     "\[IndentingNewLine]", 
-    RowBox[{"\"\<ConfigurationOptions\>\"", "\[Rule]", 
-     RowBox[{"{", 
-      RowBox[{"\"\<SiteURL\>\"", "\[Rule]", "Automatic"}], "}"}]}], ",", 
-    "\[IndentingNewLine]", 
     RowBox[{"\"\<RegenerateContent\>\"", "\[Rule]", "True"}], ",", 
     "\[IndentingNewLine]", 
     RowBox[{"\"\<GenerateAggregations\>\"", "\[Rule]", "False"}], ",", 
@@ -443,34 +436,7 @@ Cell[BoxData[
     "\[IndentingNewLine]", 
     RowBox[{"\"\<GenerateIndex\>\"", "\[Rule]", "True"}]}], 
    "\[IndentingNewLine]", "]"}], ";"}]], "Input",
- CellLabel->
-  "In[125]:=",ExpressionUUID->"cb92c5ed-d08f-4fe3-bc67-52582fdd8e67"],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- DynamicBox[ToBoxes[
-   Internal`LoadingPanel["Building pages..."], StandardForm],
-  Evaluator->"Local",
-  ImageSizeCache->{105., {20., 26.}}]], "PrintTemporary",
- CellLabel->
-  "During evaluation of \
-In[125]:=",ExpressionUUID->"2ee89d90-33c5-4f49-af87-4103ec0ee767"],
-
-Cell[BoxData[
- DynamicBox[ToBoxes[
-   If[
-    StringQ[BTools`Paclets`Private`md], 
-    Internal`LoadingPanel[
-     TemplateApply["Generating ``", BTools`Paclets`Private`md]], ""], 
-   StandardForm],
-  Evaluator->"Local",
-  ImageSizeCache->{432., {20., 26.}}]], "PrintTemporary",
- CellLabel->
-  "During evaluation of \
-In[125]:=",ExpressionUUID->"8043b7c0-1f50-4dc4-886c-fd2c75ac9bf8"]
-}, Open  ]]
-}, Open  ]]
+ CellLabel->"",ExpressionUUID->"cb92c5ed-d08f-4fe3-bc67-52582fdd8e67"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
