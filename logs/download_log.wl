@@ -83,5 +83,15 @@
 		"Date" -> "Thu 19 Jul 2018 11:53:02",
 		"Message" -> "Downloaded paclet ChemTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
 		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
+	|>,
+	"BTools" -> <|
+		"Date" -> "Thu 19 Jul 2018 13:03:14",
+		"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
+	|>,
+	"ChemTools" -> <|
+		"Date" -> "Thu 19 Jul 2018 13:03:15",
+		"Message" -> "Downloaded paclet ChemTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
 	|>
 }
