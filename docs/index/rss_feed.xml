@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paclet Server</title>
-    <link>https://paclets.github.io/PacletServer</link>
-    <atom:link href="https://paclets.github.io/PacletServer/index/rss_feed.xml" rel="self" type="application/rss+xml" />
+    <link>..</link>
+    <atom:link href="../index/rss_feed.xml" rel="self" type="application/rss+xml" />
     <image>
-      <url>https://paclets.github.io/PacletServer/favicon-32x32.png</url>
+      <url>../favicon-32x32.png</url>
       <title>Paclet Server</title>
-      <link>https://paclets.github.io/PacletServer</link>
+      <link>..</link>
     </image>
     <description>Mathematica Paclet Server</description>
   <item>
     <title>BTools</title>
-    <link>https://paclets.github.io/PacletServer/btools.html</link>
+    <link>./btools.html</link>
     <description>
         BTools
     </description>
-    <guid>https://paclets.github.io/PacletServer/btools.html</guid>
-    <pubDate>Thu 19 Jul 2018 11:53:01</pubDate>
+    <guid>./btools.html</guid>
+    <pubDate>Thu 19 Jul 2018 13:03:14</pubDate>
   </item>
   <item>
     <title>ChemTools</title>
-    <link>https://paclets.github.io/PacletServer/chemtools.html</link>
+    <link>./chemtools.html</link>
     <description>
         ChemTools
     </description>
-    <guid>https://paclets.github.io/PacletServer/chemtools.html</guid>
-    <pubDate>Thu 19 Jul 2018 11:53:02</pubDate>
+    <guid>./chemtools.html</guid>
+    <pubDate>Thu 19 Jul 2018 13:03:15</pubDate>
   </item>
   <item>
     <title>CompoundMatrixMethod</title>
-    <link>https://paclets.github.io/PacletServer/compoundmatrixmethod.html</link>
+    <link>./compoundmatrixmethod.html</link>
     <description>
         CompoundMatrixMethod
     </description>
-    <guid>https://paclets.github.io/PacletServer/compoundmatrixmethod.html</guid>
+    <guid>./compoundmatrixmethod.html</guid>
     <pubDate>Mon 4 Jun 2018 17:59:32</pubDate>
   </item>
   <item>
     <title>Deus</title>
-    <link>https://paclets.github.io/PacletServer/deus.html</link>
+    <link>./deus.html</link>
     <description>
         Deus
     </description>
-    <guid>https://paclets.github.io/PacletServer/deus.html</guid>
+    <guid>./deus.html</guid>
     <pubDate>Fri 29 Jun 2018 13:27:44</pubDate>
   </item>
   <item>
     <title>IGraphM</title>
-    <link>https://paclets.github.io/PacletServer/igraphm.html</link>
+    <link>./igraphm.html</link>
     <description>
         IGraphM
     </description>
-    <guid>https://paclets.github.io/PacletServer/igraphm.html</guid>
-    <pubDate>Mon 4 Jun 2018 17:59:32</pubDate>
+    <guid>./igraphm.html</guid>
+    <pubDate>Tue 26 Jun 2018 07:35:10</pubDate>
   </item>
   <item>
     <title>ImportMesh</title>
-    <link>https://paclets.github.io/PacletServer/importmesh.html</link>
+    <link>./importmesh.html</link>
     <description>
         ImportMesh
     </description>
-    <guid>https://paclets.github.io/PacletServer/importmesh.html</guid>
+    <guid>./importmesh.html</guid>
     <pubDate>Mon 4 Jun 2018 17:59:32</pubDate>
   </item>
   <item>
     <title>MaTeX</title>
-    <link>https://paclets.github.io/PacletServer/matex.html</link>
+    <link>./matex.html</link>
     <description>
         MaTeX
     </description>
-    <guid>https://paclets.github.io/PacletServer/matex.html</guid>
+    <guid>./matex.html</guid>
     <pubDate>Mon 18 Jun 2018 10:10:54</pubDate>
   </item>
   <item>
     <title>PublicPacletServer</title>
-    <link>https://paclets.github.io/PacletServer/publicpacletserver.html</link>
+    <link>./publicpacletserver.html</link>
     <description>
         PublicPacletServer
     </description>
-    <guid>https://paclets.github.io/PacletServer/publicpacletserver.html</guid>
+    <guid>./publicpacletserver.html</guid>
     <pubDate>Tue 26 Jun 2018 07:38:24</pubDate>
   </item>
   <item>
     <title>PyTools</title>
-    <link>https://paclets.github.io/PacletServer/pytools.html</link>
+    <link>./pytools.html</link>
     <description>
         PyTools
     </description>
-    <guid>https://paclets.github.io/PacletServer/pytools.html</guid>
+    <guid>./pytools.html</guid>
     <pubDate>Fri 29 Jun 2018 13:35:47</pubDate>
   </item>
   <item>
     <title>Rubi</title>
-    <link>https://paclets.github.io/PacletServer/rubi.html</link>
+    <link>./rubi.html</link>
     <description>
         Rubi
     </description>
-    <guid>https://paclets.github.io/PacletServer/rubi.html</guid>
+    <guid>./rubi.html</guid>
     <pubDate>Tue 26 Jun 2018 07:43:28</pubDate>
   </item>
   <item>
     <title>ServiceConnection_NASA</title>
-    <link>https://paclets.github.io/PacletServer/serviceconnectionnasa.html</link>
+    <link>./serviceconnectionnasa.html</link>
     <description>
         NASA (ServiceConnection)
     </description>
-    <guid>https://paclets.github.io/PacletServer/serviceconnectionnasa.html</guid>
+    <guid>./serviceconnectionnasa.html</guid>
     <pubDate>Mon 4 Jun 2018 17:59:32</pubDate>
   </item>
   <item>
     <title>ServiceConnection_StackExchange</title>
-    <link>https://paclets.github.io/PacletServer/serviceconnectionstackexchange.html</link>
+    <link>./serviceconnectionstackexchange.html</link>
     <description>
         StackExchange (ServiceConnection)
     </description>
-    <guid>https://paclets.github.io/PacletServer/serviceconnectionstackexchange.html</guid>
+    <guid>./serviceconnectionstackexchange.html</guid>
     <pubDate>Mon 4 Jun 2018 17:59:32</pubDate>
   </item>
   <item>
     <title>ServiceConnection_WolframCommunity</title>
-    <link>https://paclets.github.io/PacletServer/serviceconnectionwolframcommunity.html</link>
+    <link>./serviceconnectionwolframcommunity.html</link>
     <description>
         WolframCommunity (ServiceConnection)
     </description>
-    <guid>https://paclets.github.io/PacletServer/serviceconnectionwolframcommunity.html</guid>
+    <guid>./serviceconnectionwolframcommunity.html</guid>
     <pubDate>Mon 4 Jun 2018 17:59:32</pubDate>
   </item>
   <item>
     <title>SymbolObjects</title>
-    <link>https://paclets.github.io/PacletServer/symbolobjects.html</link>
+    <link>./symbolobjects.html</link>
     <description>
         SymbolObjects
     </description>
-    <guid>https://paclets.github.io/PacletServer/symbolobjects.html</guid>
+    <guid>./symbolobjects.html</guid>
     <pubDate>Mon 4 Jun 2018 17:52:34</pubDate>
   </item>
   </channel>

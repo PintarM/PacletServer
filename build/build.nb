@@ -21,7 +21,8 @@ Cell[BoxData[
      RowBox[{
       RowBox[{"NotebookDirectory", "[", "]"}], ",", " ", "\"\<src\>\"", ",", 
       " ", "\"\<BuildScript.m\>\""}], "}"}]}], "]"}], ";"}]], "Code",
- CellLabel->"In[1]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
+ CellLabel->
+  "In[122]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
 
 Cell[CellGroupData[{
 
@@ -51,10 +52,17 @@ Cell["This is the most common type you\[CloseCurlyQuote]ll want to run.", \
   3.7334296318883142`*^9}},ExpressionUUID->"a9eb2bf3-09c4-490c-836c-\
 f006baabc747"],
 
+Cell[CellGroupData[{
+
 Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "]"}], ";"}]], "Input",
- CellLabel->"In[2]:=",ExpressionUUID->"f6ff1e93-5da7-4e98-b4ee-483684eef167"],
+ CellLabel->
+  "In[123]:=",ExpressionUUID->"f6ff1e93-5da7-4e98-b4ee-483684eef167"],
+
+Cell[BoxData["$Aborted"], "Output",
+ CellLabel->"Out[123]=",ExpressionUUID->"e1507ac0-e177-473a-aa60-68e57fc55275"]
+}, Open  ]],
 
 Cell["It just rebuilds everything.", "Text",
  CellChangeTimes->{{3.7334296849200993`*^9, 
@@ -320,7 +328,7 @@ Cell[BoxData[
     "\[IndentingNewLine]", 
     RowBox[{"\"\<RegenerateContent\>\"", "\[Rule]", "True"}], ",", 
     "\[IndentingNewLine]", 
-    RowBox[{"\"\<GenerateAggregations\>\"", "\[Rule]", "True"}], ",", 
+    RowBox[{"\"\<GenerateAggregations\>\"", "\[Rule]", "False"}], ",", 
     "\[IndentingNewLine]", 
     RowBox[{"\"\<GenerateContent\>\"", "\[Rule]", "True"}], ",", 
     "\[IndentingNewLine]", 
@@ -405,12 +413,70 @@ Cell[BoxData[
     RowBox[{"\"\<GenerateIndex\>\"", "\[Rule]", "True"}]}], 
    "\[IndentingNewLine]", "]"}], ";"}]], "Input",
  CellLabel->"In[211]:=",ExpressionUUID->"6eb142e0-8408-4940-8857-c723bb3e23a6"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Build and Push without Aggregation", \
+"Subsubsection",ExpressionUUID->"2246f796-7486-4a24-ac4b-d813b3f78e75"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"PublicPacletServerRebuild", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"(*", 
+      RowBox[{"\"\<Add\>\"", ","}], " ", "*)"}], 
+     RowBox[{"\"\<Build\>\"", ",", " ", "\"\<Push\>\""}], "}"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<ConfigurationOptions\>\"", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"\"\<SiteURL\>\"", "\[Rule]", "Automatic"}], "}"}]}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<RegenerateContent\>\"", "\[Rule]", "True"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateAggregations\>\"", "\[Rule]", "False"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateContent\>\"", "\[Rule]", "True"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateIndex\>\"", "\[Rule]", "True"}]}], 
+   "\[IndentingNewLine]", "]"}], ";"}]], "Input",
+ CellLabel->
+  "In[125]:=",ExpressionUUID->"cb92c5ed-d08f-4fe3-bc67-52582fdd8e67"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ DynamicBox[ToBoxes[
+   Internal`LoadingPanel["Building pages..."], StandardForm],
+  Evaluator->"Local",
+  ImageSizeCache->{105., {20., 26.}}]], "PrintTemporary",
+ CellLabel->
+  "During evaluation of \
+In[125]:=",ExpressionUUID->"2ee89d90-33c5-4f49-af87-4103ec0ee767"],
+
+Cell[BoxData[
+ DynamicBox[ToBoxes[
+   If[
+    StringQ[BTools`Paclets`Private`md], 
+    Internal`LoadingPanel[
+     TemplateApply["Generating ``", BTools`Paclets`Private`md]], ""], 
+   StandardForm],
+  Evaluator->"Local",
+  ImageSizeCache->{432., {20., 26.}}]], "PrintTemporary",
+ CellLabel->
+  "During evaluation of \
+In[125]:=",ExpressionUUID->"8043b7c0-1f50-4dc4-886c-fd2c75ac9bf8"]
+}, Open  ]]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
 },
 WindowSize->{808, 755},
-WindowMargins->{{153, Automatic}, {Automatic, 0}},
+WindowMargins->{{Automatic, 200}, {Automatic, 0}},
 PrivateNotebookOptions->{"FileContents"->{"NotebookData"},
 "FileOutlineCache"->False},
 TrackCellChangeTimes->False,
