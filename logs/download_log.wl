@@ -103,5 +103,10 @@
 		"Date" -> "Wed 26 Sep 2018 15:41:18",
 		"Message" -> "Downloaded paclet PJLink from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
 		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
+	|>,
+	"BTools" -> <|
+		"Date" -> "Wed 26 Sep 2018 16:38:01",
+		"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
 	|>
 }
