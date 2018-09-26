@@ -1,16 +1,11 @@
 # Paclet Server Log
 
-<a id="PJLink" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## PJLink
+<a id="BTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## BTools
 
 *** Wednesday 26 September 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
->Downloaded paclet PJLink from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
-
-
----
-<a id="BTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## BTools
+>Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Wednesday 26 September 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
@@ -133,6 +128,15 @@
 *** Wednesday 18 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
 >Initial Build
+
+
+---
+<a id="PJLink" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## PJLink
+
+*** Wednesday 26 September 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+>Downloaded paclet PJLink from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 
 ---
