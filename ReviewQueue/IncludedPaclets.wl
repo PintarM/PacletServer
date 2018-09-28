@@ -46,5 +46,11 @@
 		"Author" -> "Simon Pearce <simon.pearce@manchester.ac.uk>",
 		"URL" -> "https://github.com/SPPearce/CompoundMatrixMethod",
 		"Update" -> "DownloadNever"
+	|>,
+	<|
+		"Name" -> "Ems",
+		"Author" -> "b3m2a1 <b3m2a1@gmail.com>",
+		"Site" -> "http://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+		"Update" -> "DownloadNever"
 	|>
 }
