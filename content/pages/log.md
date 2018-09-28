@@ -1,7 +1,22 @@
 # Paclet Server Log
 
+<a id="Ems" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## Ems
+
+*** Thursday 27 September 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+
+>Downloaded paclet Ems from http://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
+
+
+---
 <a id="PublicPacletServer" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 ## PublicPacletServer
+
+*** Thursday 27 September 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+
+>Downloaded paclet PublicPacletServer from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Thursday 27 September 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
@@ -77,6 +92,11 @@
 ---
 <a id="BTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 ## BTools
+
+*** Thursday 27 September 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+
+>Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Thursday 27 September 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
