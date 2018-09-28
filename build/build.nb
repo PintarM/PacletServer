@@ -54,9 +54,8 @@ f006baabc747"],
 
 Cell[BoxData[
  RowBox[{
-  RowBox[{"PublicPacletServerRebuild", "[", "]"}], ";"}]], "Input",
- CellLabel->
-  "In[490]:=",ExpressionUUID->"f6ff1e93-5da7-4e98-b4ee-483684eef167"],
+  RowBox[{"PublicPacletServerRebuild", "[", "]"}], 
+  ";"}]], "Input",ExpressionUUID->"f6ff1e93-5da7-4e98-b4ee-483684eef167"],
 
 Cell["It just rebuilds everything.", "Text",
  CellChangeTimes->{{3.7334296849200993`*^9, 
@@ -71,13 +70,9 @@ appropriate but are just adding edits to old ones:\
 Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "\[IndentingNewLine]", 
-   RowBox[{
-    RowBox[{"\"\<RegenerateContent\>\"", "\[Rule]", "False"}], ",", 
-    "\[IndentingNewLine]", 
-    RowBox[{"\"\<GenerateAggregations\>\"", "\[Rule]", "False"}]}], 
-   "\[IndentingNewLine]", "]"}], ";"}]], "Input",
- CellLabel->
-  "In[534]:=",ExpressionUUID->"e3623f48-aba6-442b-a0b9-3d6aa229391d"],
+   RowBox[{"\"\<GenerateAggregations\>\"", "\[Rule]", "False"}], 
+   "\[IndentingNewLine]", "]"}], 
+  ";"}]], "Input",ExpressionUUID->"e3623f48-aba6-442b-a0b9-3d6aa229391d"],
 
 Cell[CellGroupData[{
 
@@ -466,7 +461,7 @@ Cell[BoxData[
 }, Open  ]]
 },
 WindowSize->{808, 755},
-WindowMargins->{{78, Automatic}, {Automatic, 0}},
+WindowMargins->{{263, Automatic}, {Automatic, 0}},
 PrivateNotebookOptions->{"FileContents"->{"NotebookData"},
 "FileOutlineCache"->False},
 TrackCellChangeTimes->False,
