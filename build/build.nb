@@ -22,7 +22,7 @@ Cell[BoxData[
       RowBox[{"NotebookDirectory", "[", "]"}], ",", " ", "\"\<src\>\"", ",", 
       " ", "\"\<BuildScript.m\>\""}], "}"}]}], "]"}], ";"}]], "Code",
  CellLabel->
-  "In[489]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
+  "In[536]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
 
 Cell[CellGroupData[{
 
@@ -62,6 +62,22 @@ Cell["It just rebuilds everything.", "Text",
  CellChangeTimes->{{3.7334296849200993`*^9, 
   3.7334296891852627`*^9}},ExpressionUUID->"d2a8dae0-e90f-45e1-a72c-\
 02009be00a33"],
+
+Cell["\<\
+If you haven\[CloseCurlyQuote]t added any new paclets this might be more \
+appropriate but are just adding edits to old ones:\
+\>", "Text",ExpressionUUID->"918ae388-cf16-4884-b39d-e7b110cdd7b8"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"PublicPacletServerRebuild", "[", "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"\"\<RegenerateContent\>\"", "\[Rule]", "False"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateAggregations\>\"", "\[Rule]", "False"}]}], 
+   "\[IndentingNewLine]", "]"}], ";"}]], "Input",
+ CellLabel->
+  "In[534]:=",ExpressionUUID->"e3623f48-aba6-442b-a0b9-3d6aa229391d"],
 
 Cell[CellGroupData[{
 
@@ -218,7 +234,7 @@ Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "\"\<Push\>\"", "]"}], 
   ";"}]], "Input",
- CellLabel->"In[402]:=",ExpressionUUID->"39508e2c-da5d-46c7-be14-6be2a4d9daee"]
+ CellLabel->"In[495]:=",ExpressionUUID->"39508e2c-da5d-46c7-be14-6be2a4d9daee"]
 }, Open  ]],
 
 Cell[CellGroupData[{
