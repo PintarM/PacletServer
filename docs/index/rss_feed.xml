@@ -17,7 +17,7 @@
         BTools
     </description>
     <guid>https://paclets.github.io/PacletServer/btools.html</guid>
-    <pubDate>Thu 27 Sep 2018 18:47:37</pubDate>
+    <pubDate>Thu 27 Sep 2018 22:41:25</pubDate>
   </item>
   <item>
     <title>ChemTools</title>
@@ -89,7 +89,7 @@
         PublicPacletServer
     </description>
     <guid>https://paclets.github.io/PacletServer/publicpacletserver.html</guid>
-    <pubDate>Tue 26 Jun 2018 07:38:24</pubDate>
+    <pubDate>Thu 27 Sep 2018 22:41:26</pubDate>
   </item>
   <item>
     <title>PyTools</title>
@@ -144,6 +144,15 @@
     </description>
     <guid>https://paclets.github.io/PacletServer/symbolobjects.html</guid>
     <pubDate>Mon 4 Jun 2018 17:52:34</pubDate>
+  </item>
+  <item>
+    <title>Ems</title>
+    <link>https://paclets.github.io/PacletServer/ems.html</link>
+    <description>
+        Ems
+    </description>
+    <guid>https://paclets.github.io/PacletServer/ems.html</guid>
+    <pubDate>Thu 27 Sep 2018 22:41:29</pubDate>
   </item>
   </channel>
 </rss>
