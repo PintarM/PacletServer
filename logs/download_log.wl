@@ -108,5 +108,25 @@
 		"Date" -> "Wed 26 Sep 2018 16:38:01",
 		"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
 		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
+	|>,
+	"BTools" -> <|
+		"Date" -> "Thu 27 Sep 2018 18:45:40",
+		"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
+	|>,
+	"BTools" -> <|
+		"Date" -> "Thu 27 Sep 2018 18:47:04",
+		"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
+	|>,
+	"BTools" -> <|
+		"Date" -> "Thu 27 Sep 2018 18:47:37",
+		"Message" -> "Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer",
+		"Author" -> "b3m2a1 <b3m2a1@gmail.com>"
+	|>,
+	"CompoundMatrixMethod" -> <|
+		"Date" -> "Thu 27 Sep 2018 18:47:38",
+		"Message" -> "Downloaded paclet CompoundMatrixMethod from https://github.com/SPPearce/CompoundMatrixMethod",
+		"Author" -> "Simon Pearce <simon.pearce@manchester.ac.uk>"
 	|>
 }

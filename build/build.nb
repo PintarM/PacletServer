@@ -22,7 +22,7 @@ Cell[BoxData[
       RowBox[{"NotebookDirectory", "[", "]"}], ",", " ", "\"\<src\>\"", ",", 
       " ", "\"\<BuildScript.m\>\""}], "}"}]}], "]"}], ";"}]], "Code",
  CellLabel->
-  "In[344]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
+  "In[489]:=",ExpressionUUID->"a3c1b6fb-ef10-4f32-aa04-9bc680baee75"],
 
 Cell[CellGroupData[{
 
@@ -56,7 +56,7 @@ Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "]"}], ";"}]], "Input",
  CellLabel->
-  "In[350]:=",ExpressionUUID->"f6ff1e93-5da7-4e98-b4ee-483684eef167"],
+  "In[490]:=",ExpressionUUID->"f6ff1e93-5da7-4e98-b4ee-483684eef167"],
 
 Cell["It just rebuilds everything.", "Text",
  CellChangeTimes->{{3.7334296849200993`*^9, 
@@ -131,7 +131,8 @@ Cell["This will download any new updated paclets", \
 Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "\"\<UpdateQueue\>\"", "]"}], 
-  ";"}]], "Input",ExpressionUUID->"d4cf424c-a9ef-42dd-b76c-fd842c88e55e"]
+  ";"}]], "Input",
+ CellLabel->"In[492]:=",ExpressionUUID->"d4cf424c-a9ef-42dd-b76c-fd842c88e55e"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -153,7 +154,7 @@ Cell[BoxData[
  RowBox[{
   RowBox[{"PublicPacletServerRebuild", "[", "\"\<Add\>\"", "]"}], 
   ";"}]], "Input",
- CellLabel->"In[397]:=",ExpressionUUID->"0ebc48bb-f7cf-42c0-9dcf-8a390f7175fa"]
+ CellLabel->"In[493]:=",ExpressionUUID->"0ebc48bb-f7cf-42c0-9dcf-8a390f7175fa"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -162,6 +163,18 @@ Cell["Just build the pages", "Subsubsection",
  CellChangeTimes->{{3.7334297942941313`*^9, 
   3.7334297980057917`*^9}},ExpressionUUID->"41855600-f3df-4d7a-b23c-\
 76da91843956"],
+
+Cell["\<\
+Probably most common, regenerate without new aggregation pages:\
+\>", "Text",ExpressionUUID->"a6d46dbe-ba88-4073-9b26-a7b5b1c00515"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"PublicPacletServerRebuild", "[", 
+   RowBox[{"\"\<Build\>\"", ",", "\[IndentingNewLine]", 
+    RowBox[{"\"\<GenerateAggregations\>\"", "\[Rule]", "False"}]}], 
+   "\[IndentingNewLine]", "]"}], 
+  ";"}]], "Input",ExpressionUUID->"31b51a22-b313-49d2-b418-12e381c7d876"],
 
 Cell["This will just build the pages", "Text",
  CellChangeTimes->{{3.733429781451778*^9, 
@@ -173,7 +186,7 @@ Cell[BoxData[
   RowBox[{"PublicPacletServerRebuild", "[", "\"\<Build\>\"", "]"}], 
   ";"}]], "Input",
  CellLabel->
-  "In[348]:=",ExpressionUUID->"357a0c8d-ac5b-4a66-942a-9784d7753162"],
+  "In[494]:=",ExpressionUUID->"357a0c8d-ac5b-4a66-942a-9784d7753162"],
 
 Cell["Regenerate all the content pages", "Text",
  CellChangeTimes->{{3.733431732585972*^9, 
@@ -437,7 +450,7 @@ Cell[BoxData[
 }, Open  ]]
 },
 WindowSize->{808, 755},
-WindowMargins->{{Automatic, 303}, {Automatic, 0}},
+WindowMargins->{{78, Automatic}, {Automatic, 0}},
 PrivateNotebookOptions->{"FileContents"->{"NotebookData"},
 "FileOutlineCache"->False},
 TrackCellChangeTimes->False,

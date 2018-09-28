@@ -2,22 +2,22 @@ Title: CompoundMatrixMethod
 Authors: Simon Pearce
 Categories: misc
 Creator: Simon Pearce
-Description: Solve Eigenvalue Boundary Value Problems using the Compound Matrix Method to generate the Evans function.
+Description: Solve Eigenvalue Boundary Value Problems using the Compound Matrix Method to generate the Evans function. 
 DisplayName: CompoundMatrixMethod
 Extensions: <|Kernel -> <|Root -> ., Context -> CompoundMatrixMethod`|>|>
 LastModified: 2018-06-04 17:59:32
-MathematicaVersion: 9+
-Modified: 2018-06-04 17:59:32
+MathematicaVersion: 10+
+Modified: 2018-09-27 18:47:38
 Name: CompoundMatrixMethod
 Slug: compoundmatrixmethod
 Tags: 
-Version: 0.7
+Version: 0.9
 
 <a id="compoundmatrixmethod" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 
 # CompoundMatrixMethod
 
-Solve Eigenvalue Boundary Value Problems using the Compound Matrix Method to generate the Evans function.
+Solve Eigenvalue Boundary Value Problems using the Compound Matrix Method to generate the Evans function. 
 
 ---
 
@@ -55,7 +55,7 @@ CompoundMatrixMethod
 
 ### Version
 
-0.7
+0.9
 
 ### Creator
 
@@ -69,7 +69,7 @@ Simon Pearce
 
 ### MathematicaVersion
 
-9+
+10+
 
 ---
 
