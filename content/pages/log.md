@@ -1,133 +1,281 @@
 # Paclet Server Log
 
+<a id="PublicPacletServer" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## PublicPacletServer
+
+*** Thursday 27 September 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+
+>Downloaded paclet PublicPacletServer from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
+
+*** Tuesday 26 June 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+
+>Downloaded paclet PublicPacletServer from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
+
+*** Tuesday 5 June 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+
+>Manually updated PublicPacletServer
+
+*** Tuesday 1 May 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+
+>Manual update of interface paclet
+
+*** Monday 30 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+
+>Added paclet PublicPacletServer-0.0.1.paclet to queue
+
+*** Monday 30 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+
+>Delete PublicPacletServer-0.0.1.paclet
+
+*** Monday 30 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+
+>Updated paclet PublicPacletServer-0.0.1.paclet in queue
+
+*** Monday 30 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+
+>Updated paclet PublicPacletServer-0.0.1.paclet in queue
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+
+>Updated paclet PublicPacletServer-0.0.1.paclet in queue
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+
+>Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+
+>Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+
+>Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+
+>Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
+
+*** Saturday 28 April 2018 ***
+* Author:  b3m2a1 <b3m2a1@gmail.com>
+
+>Added paclet PublicPacletServer-0.0.1.paclet to queue
+
+
+---
 <a id="BTools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 ## BTools
 
-*** Wednesday 26 September 2018 ***
+*** Thursday 27 September 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
+>Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
+
+*** Thursday 27 September 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+
+>Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
+
+*** Thursday 27 September 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+
+>Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
+
+*** Thursday 27 September 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Wednesday 26 September 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
+>Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
+
+*** Wednesday 26 September 2018 ***
+* Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Thursday 19 July 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Thursday 19 July 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Friday 29 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Friday 29 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Friday 29 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Tuesday 26 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Tuesday 19 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Monday 18 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Tuesday 5 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Tuesday 5 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Tuesday 5 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet BTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Wednesday 30 May 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Added paclet BTools-2.1.13.paclet to queue
 
 *** Monday 30 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Commited via Mathematica
 
 *** Monday 30 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Added paclet BTools-2.1.10.paclet to queue
 
 *** Monday 30 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Delete BTools-2.1.10.paclet
 
 *** Monday 30 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Updated paclet BTools-2.1.10.paclet in queue
 
 *** Monday 30 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Commited via Mathematica
 
 *** Monday 30 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Added paclet BTools-2.1.10.paclet to queue
 
 *** Monday 30 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Commited via Mathematica
 
 *** Saturday 28 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Updated paclet BTools-2.1.8.paclet in queue
 
 *** Saturday 28 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Added BTools-2.1.8.paclet
 
 *** Saturday 28 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Delete BTools-2.1.8.paclet
 
 *** Saturday 28 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Added BTools-2.1.8.paclet
 
 *** Thursday 26 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Commit never happened...?
 
 *** Monday 23 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Push of the unpushed
+
 >    
+
 >    Stuff didnât get auto-committed, oddly
 
 *** Monday 23 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Push update
 
 *** Friday 20 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Switched up theme
 
 *** Thursday 19 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Rebuild
 
 *** Wednesday 18 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Initial Build
+
+
+---
+<a id="CompoundMatrixMethod" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
+## CompoundMatrixMethod
+
+*** Thursday 27 September 2018 ***
+* Author: Simon Pearce <simon.pearce@manchester.ac.uk>
+
+>Downloaded paclet CompoundMatrixMethod from https://github.com/SPPearce/CompoundMatrixMethod
+
+*** Tuesday 15 May 2018 ***
+* Author:  Simon Pearce <simonppearce@btinternet.com>
+
+>Added paclet CompoundMatrixMethod-0.7.paclet to queue
+
+*** Tuesday 1 May 2018 ***
+* Author:  Simon Pearce <simonppearce@btinternet.com>
+
+>Added paclet CompoundMatrixMethod-0.6.paclet to queue
 
 
 ---
@@ -136,6 +284,7 @@
 
 *** Wednesday 26 September 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet PJLink from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 
@@ -145,30 +294,37 @@
 
 *** Thursday 19 July 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet ChemTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Thursday 19 July 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet ChemTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Friday 29 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet ChemTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
 
 *** Wednesday 30 May 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Added paclet ChemTools-1.2.3.paclet to queue
 
 *** Monday 23 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Push update
 
 *** Friday 20 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Switched up theme
 
 *** Wednesday 18 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Initial Build
 
 
@@ -178,64 +334,8 @@
 
 *** Friday 29 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Downloaded paclet PyTools from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
-
-
----
-<a id="PublicPacletServer" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## PublicPacletServer
-
-*** Tuesday 26 June 2018 ***
-* Author: b3m2a1 <b3m2a1@gmail.com>
->Downloaded paclet PublicPacletServer from https://www.wolframcloud.com/objects/b3m2a1.paclets/PacletServer
-
-*** Tuesday 5 June 2018 ***
-* Author: b3m2a1 <b3m2a1@gmail.com>
->Manually updated PublicPacletServer
-
-*** Tuesday 1 May 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Manual update of interface paclet
-
-*** Monday 30 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Added paclet PublicPacletServer-0.0.1.paclet to queue
-
-*** Monday 30 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Delete PublicPacletServer-0.0.1.paclet
-
-*** Monday 30 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated paclet PublicPacletServer-0.0.1.paclet in queue
-
-*** Monday 30 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated paclet PublicPacletServer-0.0.1.paclet in queue
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated paclet PublicPacletServer-0.0.1.paclet in queue
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Updated ReviewQueue/PublicPacletServer-0.0.1.paclet
-
-*** Saturday 28 April 2018 ***
-* Author:  b3m2a1 <b3m2a1@gmail.com>
->Added paclet PublicPacletServer-0.0.1.paclet to queue
 
 
 ---
@@ -244,38 +344,47 @@
 
 *** Tuesday 26 June 2018 ***
 * Author: Szabolcs Horvát <szhorvat@gmail.com>
+
 >Downloaded paclet IGraphM from https://github.com/szhorvat/IGraphM/releases/download/v0.3.100/IGraphM-0.3.100.paclet
 
 *** Tuesday 1 May 2018 ***
 * Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
+
 >Add IGraph/M 0.3.99.1
 
 *** Monday 30 April 2018 ***
 * Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
+
 >Add IGraph/M 0.3.99
 
 *** Monday 30 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Commited via Mathematica
 
 *** Saturday 28 April 2018 ***
 * Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
+
 >Add IGraph/M 0.3.98
 
 *** Saturday 28 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Spring cleaning
 
 *** Saturday 28 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Push paclet and stuff
 
 *** Thursday 19 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Rebuild
 
 *** Thursday 19 April 2018 ***
 * Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
+
 >Add MaTeX 1.7.3 and IGraph/M 0.3.97.2
 
 
@@ -285,6 +394,7 @@
 
 *** Tuesday 26 June 2018 ***
 * Author:  Patrick Scheibe <pscheibe@trm.uni-leipzig.de>
+
 >Add Rubi paclet
 
 
@@ -294,18 +404,22 @@
 
 *** Tuesday 19 June 2018 ***
 * Author: Szabolcs Horvát <szhorvat@gmail.com>
+
 >Downloaded paclet MaTeX from https://github.com/szhorvat/MaTeX/releases/latest
 
 *** Monday 18 June 2018 ***
 * Author: Szabolcs Horvát <szhorvat@gmail.com>
+
 >Downloaded paclet MaTeX from https://github.com/szhorvat/MaTeX/releases/latest
 
 *** Thursday 19 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Rebuild
 
 *** Thursday 19 April 2018 ***
 * Author:  Szabolcs HorvaÌt <szhorvat@gmail.com>
+
 >Add MaTeX 1.7.3 and IGraph/M 0.3.97.2
 
 
@@ -315,6 +429,7 @@
 
 *** Tuesday 19 June 2018 ***
 * Author: Sasaki Saki <galaster@foxmail.com>
+
 >Manually updated Deus paclet
 
 
@@ -324,20 +439,8 @@
 
 *** Monday 4 June 2018 ***
 * Author: b3m2a1 <b3m2a1@gmail.com>
+
 >Manual addition of SymbolObjects package
-
-
----
-<a id="CompoundMatrixMethod" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
-## CompoundMatrixMethod
-
-*** Tuesday 15 May 2018 ***
-* Author:  Simon Pearce <simonppearce@btinternet.com>
->Added paclet CompoundMatrixMethod-0.7.paclet to queue
-
-*** Tuesday 1 May 2018 ***
-* Author:  Simon Pearce <simonppearce@btinternet.com>
->Added paclet CompoundMatrixMethod-0.6.paclet to queue
 
 
 ---
@@ -346,10 +449,12 @@
 
 *** Tuesday 8 May 2018 ***
 * Author:  PintarM <35780547+PintarM@users.noreply.github.com>
+
 >Add ImportMesh paclet
 
 *** Tuesday 8 May 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Commited via Mathematica
 
 
@@ -359,6 +464,7 @@
 
 *** Saturday 5 May 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Added paclet ServiceConnection_StackExchange-1.1.7.paclet to queue
 
 
@@ -368,14 +474,17 @@
 
 *** Tuesday 1 May 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Added paclet ServiceConnection_WolframCommunity-1.0.3.paclet to queue
 
 *** Monday 30 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Commited via Mathematica
 
 *** Monday 30 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Added paclet ServiceConnection_WolframCommunity-1.0.3.paclet to queue
 
 
@@ -385,6 +494,7 @@
 
 *** Thursday 26 April 2018 ***
 * Author:  b3m2a1 <b3m2a1@gmail.com>
+
 >Fixed bad image links
 
 
